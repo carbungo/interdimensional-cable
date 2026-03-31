@@ -1,0 +1,29 @@
+# Music library (too large for git)
+music/
+library/
+*.mp3
+*.wav
+*.ogg
+*.flac
+
+# Cache
+__pycache__/
+*.pyc
+.cache/
+
+# Environment
+.env
+.venv/
+node_modules/
+
+# Build
+.next/
+dist/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes
+data/
