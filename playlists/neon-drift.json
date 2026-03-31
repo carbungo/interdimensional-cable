@@ -1,0 +1,1031 @@
+{
+  "station": "neon-drift",
+  "genre": "ncs",
+  "track_count": 114,
+  "tracks": [
+    {
+      "file": "ncs/104 - Mendum - Elysium \uff5c Dubstep \uff5c NCS - Copyright Free Music [3PS5jAMkCmU].mp3",
+      "bpm": 143.6,
+      "key": "A minor",
+      "camelot": "7A",
+      "energy": 0.194596,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.13
+    },
+    {
+      "file": "ncs/078 - Ship Wrek, Zookeepers & Trauzers - Vessel \uff5c Trap \uff5c NCS - Copyright Free Music [PXf4rkguwDI].mp3",
+      "bpm": 152.0,
+      "key": "A minor",
+      "camelot": "7A",
+      "energy": 0.25538,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.45
+    },
+    {
+      "file": "ncs/108 - Uplink - To Myself (feat. NK) \uff5c Trap \uff5c NCS - Copyright Free Music [fugQAnzL1uk].mp3",
+      "bpm": 152.0,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.261877,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.24
+    },
+    {
+      "file": "ncs/084 - Barren Gates & M.I.M.E - Enslaved \uff5c Trap \uff5c NCS - Copyright Free Music [XEymPGxopmg].mp3",
+      "bpm": 152.0,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.240504,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.87
+    },
+    {
+      "file": "ncs/022 - Ship Wrek & Zookeepers - Ark \uff5c Future Bass \uff5c NCS - Copyright Free Music [8xlDwukxjnA].mp3",
+      "bpm": 152.0,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.252864,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.6
+    },
+    {
+      "file": "ncs/050 - Heuse & Zeus x Crona - Pill (feat. Emma Sameth) \uff5c Trap \uff5c NCS - Copyright Free Music [CLiXUT3MS34].mp3",
+      "bpm": 152.0,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.142234,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.78
+    },
+    {
+      "file": "ncs/035 - Anikdote - Turn It Up \uff5c Trap \uff5c NCS - Copyright Free Music [S6RWY8OYwbk].mp3",
+      "bpm": 161.5,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.256466,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.2
+    },
+    {
+      "file": "ncs/017 - Sub Urban - Cradles \uff5c Pop \uff5c NCS - Copyright Free Music [Hn4sfC2PbhI].mp3",
+      "bpm": 161.5,
+      "key": "D minor",
+      "camelot": "6A",
+      "energy": 0.29077,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.54
+    },
+    {
+      "file": "ncs/076 - Krys Talk & Cole Sipe - Way Back Home \uff5c Trap \uff5c NCS - Copyright Free Music [qrmc7KVIoKQ].mp3",
+      "bpm": 152.0,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.240427,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.79
+    },
+    {
+      "file": "ncs/014 - Unknown Brain - Superhero (feat. Chris Linton) \uff5c Trap \uff5c NCS - Copyright Free Music [LHvYrn3FAgI].mp3",
+      "bpm": 152.0,
+      "key": "C# major",
+      "camelot": "?",
+      "energy": 0.241871,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.37
+    },
+    {
+      "file": "ncs/070 - Unknown Brain - Inspiration (feat. Aviella) \uff5c Future Trap \uff5c NCS - Copyright Free Music [aCH1eyWq9B0].mp3",
+      "bpm": 152.0,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.301261,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.24
+    },
+    {
+      "file": "ncs/054 - Lost Sky - Dreams \uff5c Trap \uff5c NCS - Copyright Free Music [SHFTHDncw0g].mp3",
+      "bpm": 143.6,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.243739,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.14
+    },
+    {
+      "file": "ncs/016 - Lost Sky - Dreams pt. II (feat. Sara Skinner) \uff5c Trap \uff5c NCS - Copyright Free Music [L7kF4MXXCoA].mp3",
+      "bpm": 143.6,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.228087,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.43
+    },
+    {
+      "file": "ncs/083 - Axol & The Tech Thieves - Bleed \uff5c Trap \uff5c NCS - Copyright Free Music [xYfn7MWU7TQ].mp3",
+      "bpm": 143.6,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.291117,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.79
+    },
+    {
+      "file": "ncs/040 - Diamond Eyes - Everything \uff5c Melodic Dubstep \uff5c NCS - Copyright Free Music [_XspQUK22-U].mp3",
+      "bpm": 143.6,
+      "key": "D major",
+      "camelot": "10B",
+      "energy": 0.291396,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.82
+    },
+    {
+      "file": "ncs/089 - Fareoh - Under Water \uff5c Trap \uff5c NCS - Copyright Free Music [xzyRoshFFaA].mp3",
+      "bpm": 143.6,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.323021,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.33
+    },
+    {
+      "file": "ncs/047 - Razihel - Love U \uff5c Jersey Club \uff5c NCS - Copyright Free Music [OJBxNA8cX-E].mp3",
+      "bpm": 143.6,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.310881,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.44
+    },
+    {
+      "file": "ncs/073 - Giraffe Squad - Wait For Me \uff5c Trap \uff5c NCS - Copyright Free Music [rgW_I8saK1o].mp3",
+      "bpm": 143.6,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.310858,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.8
+    },
+    {
+      "file": "ncs/041 - Prismo - Stronger \uff5c Future Bass \uff5c NCS - Copyright Free Music [IIwiM777OzQ].mp3",
+      "bpm": 143.6,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.256874,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.22
+    },
+    {
+      "file": "ncs/024 - Lost Sky - Where We Started (feat. Jex) \uff5c Melodic Dubstep \uff5c NCS - Copyright Free Music [U9pGr6KMdyg].mp3",
+      "bpm": 152.0,
+      "key": "F# major",
+      "camelot": "2B",
+      "energy": 0.211986,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.38
+    },
+    {
+      "file": "ncs/063 - Y&V - Lune \uff5c Electronic \uff5c NCS - Copyright Free Music [n79aphwhpW0].mp3",
+      "bpm": 152.0,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.19281,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.29
+    },
+    {
+      "file": "ncs/100 - Disfigure - Blank VIP (feat. Tara Louise) \uff5c Melodic Dubstep \uff5c NCS - Copyright Free Music [j5DCb1ycXyA].mp3",
+      "bpm": 152.0,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.16841,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.76
+    },
+    {
+      "file": "ncs/021 - Egzod & Maestro Chives - Royalty (ft. Neoni) \uff5c Trap \uff5c NCS - Copyright Free Music [C5fLxtJH2Qs].mp3",
+      "bpm": 161.5,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.292428,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.81
+    },
+    {
+      "file": "ncs/049 - Diamond Eyes - Flutter \uff5c Future Bass \uff5c NCS - Copyright Free Music [lEHM9HZf0IA].mp3",
+      "bpm": 161.5,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.294266,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.64
+    },
+    {
+      "file": "ncs/093 - Wontolla, Kasger & Limitless - Miles Away \uff5c Drumstep \uff5c NCS - Copyright Free Music [aCyQu00rZrM].mp3",
+      "bpm": 86.1,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.257845,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.16
+    },
+    {
+      "file": "ncs/052 - RetroVision - Puzzle \uff5c Future House \uff5c NCS - Copyright Free Music [TN_8D-79BZg].mp3",
+      "bpm": 86.1,
+      "key": "A major",
+      "camelot": "11B",
+      "energy": 0.235977,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.32
+    },
+    {
+      "file": "ncs/023 - Jim Yosef - Firefly \uff5c Progressive House \uff5c NCS - Copyright Free Music [x_OwcYTNbHs].mp3",
+      "bpm": 86.1,
+      "key": "C# major",
+      "camelot": "?",
+      "energy": 0.225775,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.02
+    },
+    {
+      "file": "ncs/107 - Geoxor - You & I \uff5c Drumstep \uff5c NCS - Copyright Free Music [1lcc21RQx_A].mp3",
+      "bpm": 86.1,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.329062,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.77
+    },
+    {
+      "file": "ncs/098 - Desmeon - Back From The Dead \uff5c Drumstep \uff5c NCS - Copyright Free Music [OFWT4yfPdjo].mp3",
+      "bpm": 86.1,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.308972,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.57
+    },
+    {
+      "file": "ncs/030 - Aero Chord feat. DDARK - Shootin Stars \uff5c Trap \uff5c NCS - Copyright Free Music [PTF5xgT-pm8].mp3",
+      "bpm": 92.3,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.26937,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.56
+    },
+    {
+      "file": "ncs/091 - Valence - Infinite \uff5c Future Bass \uff5c NCS - Copyright Free Music [QHoqD47gQG8].mp3",
+      "bpm": 95.7,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.250853,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.21
+    },
+    {
+      "file": "ncs/115 - Neoni - LEVITATE \uff5c Electronic \uff5c NCS - Copyright Free Music [f-YsVDJ9Vs8].mp3",
+      "bpm": 198.8,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.317726,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.46
+    },
+    {
+      "file": "ncs/105 - Chime & Adam Tell - Whole (Rob Gasser Remix) \uff5c Glitch Hop \uff5c NCS - Copyright Free Music [AHBnM1Jin9A].mp3",
+      "bpm": 103.4,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.256752,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.29
+    },
+    {
+      "file": "ncs/064 - Prismo - Weakness \uff5c Future Bass \uff5c NCS - Copyright Free Music [SvRFNNbxuAk].mp3",
+      "bpm": 99.4,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.20136,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.7
+    },
+    {
+      "file": "ncs/031 - Unknown Brain x Rival - Control (feat. Jex) \uff5c Trap \uff5c NCS - Copyright Free Music [bLZHcnuqscU].mp3",
+      "bpm": 99.4,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.297383,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.16
+    },
+    {
+      "file": "ncs/004 - DEAF KEV - Invincible \uff5c Glitch Hop \uff5c NCS - Copyright Free Music [J2X5mJ3HDYE].mp3",
+      "bpm": 99.4,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.353867,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.37
+    },
+    {
+      "file": "ncs/038 - JPB - High \uff5c Trap \uff5c NCS - Copyright Free Music [Tv6WImqSuxA].mp3",
+      "bpm": 99.4,
+      "key": "D# major",
+      "camelot": "?",
+      "energy": 0.255803,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.2
+    },
+    {
+      "file": "ncs/065 - Lost Sky - Lost \uff5c Trap \uff5c NCS - Copyright Free Music [h-nHdqC3pPs].mp3",
+      "bpm": 99.4,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.2676,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.6
+    },
+    {
+      "file": "ncs/075 - Barren Gates - Devil \uff5c Trap \uff5c NCS - Copyright Free Music [htV2wG5rWHw].mp3",
+      "bpm": 99.4,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.370883,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.06
+    },
+    {
+      "file": "ncs/039 - JJD - Adventure \uff5c Glitch Hop \uff5c NCS - Copyright Free Music [f2xGxd9xPYA].mp3",
+      "bpm": 99.4,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.317535,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.9
+    },
+    {
+      "file": "ncs/110 - Asketa & Natan Chaim x Requenze x M.I.M.E - Warriors \uff5c Trap \uff5c NCS - Copyright Free Music [dVWlxP_Iu-4].mp3",
+      "bpm": 103.4,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.329164,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.28
+    },
+    {
+      "file": "ncs/092 - BEAUZ & JVNA - Crazy \uff5c Electronic Pop \uff5c NCS - Copyright Free Music [xgcLwtGlgLU].mp3",
+      "bpm": 103.4,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.292745,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.33
+    },
+    {
+      "file": "ncs/043 - Diviners feat. Contacreast - Tropic Love \uff5c Tropical House \uff5c NCS - Copyright Free Music [u6RJv7f__Mg].mp3",
+      "bpm": 103.4,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.260462,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.75
+    },
+    {
+      "file": "ncs/033 - Diviners - Savannah (feat. Philly K) \uff5c Tropical House \uff5c NCS - Copyright Free Music [u1I9ITfzqFs].mp3",
+      "bpm": 103.4,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.25453,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.72
+    },
+    {
+      "file": "ncs/009 - Lost Sky - Fearless pt.II (feat. Chris Linton) \uff5c Trap \uff5c NCS - Copyright Free Music [S19UcWdOA-I].mp3",
+      "bpm": 107.7,
+      "key": "A minor",
+      "camelot": "7A",
+      "energy": 0.302983,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.39
+    },
+    {
+      "file": "ncs/086 - it's different - Shadows (feat. Miss Mary) \uff5c Trap \uff5c NCS - Copyright Free Music [UHbDJ1oPuGo].mp3",
+      "bpm": 112.3,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.261854,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.62
+    },
+    {
+      "file": "ncs/001 - Cartoon, J\u00e9ja - On & On (feat. Daniel Levi) \uff5c Electronic Pop \uff5c NCS - Copyright Free Music [K4DyBUG242c].mp3",
+      "bpm": 117.5,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.292001,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.08
+    },
+    {
+      "file": "ncs/094 - Vanze - Survive (feat. Neon Dreams) \uff5c House \uff5c NCS - Copyright Free Music [cvl8e2se8Q4].mp3",
+      "bpm": 117.5,
+      "key": "D major",
+      "camelot": "10B",
+      "energy": 0.274604,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.35
+    },
+    {
+      "file": "ncs/090 - it's different - Outlaw (feat. Miss Mary) \uff5c DnB \uff5c NCS - Copyright Free Music [Y2Lu0o3S2sU].mp3",
+      "bpm": 117.5,
+      "key": "G major",
+      "camelot": "9B",
+      "energy": 0.241334,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.0
+    },
+    {
+      "file": "ncs/053 - K-391 - Earth \uff5c Drumstep \uff5c NCS - Copyright Free Music [dOo2jWb73JY].mp3",
+      "bpm": 112.3,
+      "key": "G major",
+      "camelot": "9B",
+      "energy": 0.174774,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.26
+    },
+    {
+      "file": "ncs/046 - Unknown Brain - Say Goodbye (ft. Marvin Divine) \uff5c Trap \uff5c NCS - Copyright Free Music [rdD-DMTWqU4].mp3",
+      "bpm": 112.3,
+      "key": "G major",
+      "camelot": "9B",
+      "energy": 0.321804,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.73
+    },
+    {
+      "file": "ncs/072 - Kisma - Fingertips \uff5c House \uff5c NCS - Copyright Free Music [LJeiQw2RmSg].mp3",
+      "bpm": 123.0,
+      "key": "G major",
+      "camelot": "9B",
+      "energy": 0.285888,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.26
+    },
+    {
+      "file": "ncs/062 - LFZ - Popsicle \uff5c House \uff5c NCS - Copyright Free Music [K8DUjObr_tU].mp3",
+      "bpm": 129.2,
+      "key": "D major",
+      "camelot": "10B",
+      "energy": 0.29297,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.81
+    },
+    {
+      "file": "ncs/006 - Elektronomia - Sky High \uff5c Progressive House \uff5c NCS - Copyright Free Music [TW9d8vYrVFQ].mp3",
+      "bpm": 129.2,
+      "key": "A major",
+      "camelot": "11B",
+      "energy": 0.307027,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0
+    },
+    {
+      "file": "ncs/036 - Elektronomia - Limitless \uff5c Progressive House \uff5c NCS - Copyright Free Music [cNcy3J4x62M].mp3",
+      "bpm": 129.2,
+      "key": "A major",
+      "camelot": "11B",
+      "energy": 0.324262,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.35
+    },
+    {
+      "file": "ncs/082 - Distrion & Alex Skrindo - Entropy \uff5c House \uff5c NCS - Copyright Free Music [iaKgF1Vf5bQ].mp3",
+      "bpm": 129.2,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.303059,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0
+    },
+    {
+      "file": "ncs/077 - Alex Skrindo - Jumbo \uff5c House \uff5c NCS - Copyright Free Music [v4Za061pQac].mp3",
+      "bpm": 129.2,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.292513,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.54
+    },
+    {
+      "file": "ncs/048 - Dirty Palm - Oblivion (feat. Micah Martin) \uff5c Future Bounce \uff5c NCS - Copyright Free Music [8Yue9YYdNLM].mp3",
+      "bpm": 129.2,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.29195,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.12
+    },
+    {
+      "file": "ncs/095 - 3rd Prototype - Dancefloor \uff5c Future House \uff5c NCS - Copyright Free Music [ZLohS_HScwc].mp3",
+      "bpm": 129.2,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.24198,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.66
+    },
+    {
+      "file": "ncs/020 - Different Heaven - Nekozilla \uff5c Electro \uff5c NCS - Copyright Free Music [6FNHe3kf8_s].mp3",
+      "bpm": 129.2,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.256146,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.1
+    },
+    {
+      "file": "ncs/067 - Lensko - Circles \uff5c House \uff5c NCS - Copyright Free Music [ztvIhqVtrrw].mp3",
+      "bpm": 129.2,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.156166,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.42
+    },
+    {
+      "file": "ncs/034 - Lensko - Let's Go! \uff5c House \uff5c NCS - Copyright Free Music [mSLuJYtl89Y].mp3",
+      "bpm": 129.2,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.25145,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.49
+    },
+    {
+      "file": "ncs/087 - Distrion & Electro-Light - Rubik \uff5c House \uff5c NCS - Copyright Free Music [A2AydJcUKR8].mp3",
+      "bpm": 129.2,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.245791,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.39
+    },
+    {
+      "file": "ncs/056 - Different Heaven - Safe And Sound \uff5c House \uff5c NCS - Copyright Free Music [13ARO0HDZsQ].mp3",
+      "bpm": 129.2,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.234223,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.52
+    },
+    {
+      "file": "ncs/080 - Jim Yosef - Arrow \uff5c House \uff5c NCS - Copyright Free Music [5LI5QZVUU98].mp3",
+      "bpm": 129.2,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.218738,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.38
+    },
+    {
+      "file": "ncs/112 - Syn Cole - Gizmo \uff5c House \uff5c NCS - Copyright Free Music [pZzSq8WfsKo].mp3",
+      "bpm": 123.0,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.280502,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.09
+    },
+    {
+      "file": "ncs/069 - Rival x Cadmium - Seasons (ft Harley Bird) [Futuristik & Whogaux Remix] \uff5c NCS - Copyright Free Music [PwJVaJJ664g].mp3",
+      "bpm": 117.5,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.273673,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.9
+    },
+    {
+      "file": "ncs/106 - Cartoon, J\u00e9ja feat. J\u00fcri Pootsmann - I Remember U \uff5c DnB \uff5c NCS - Copyright Free Music [3wjb3HtD32c].mp3",
+      "bpm": 117.5,
+      "key": "D minor",
+      "camelot": "6A",
+      "energy": 0.314,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.32
+    },
+    {
+      "file": "ncs/044 - Clarx - H.A.Y \uff5c Future House \uff5c NCS - Copyright Free Music [mj9KRKSvdbk].mp3",
+      "bpm": 112.3,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.259744,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.54
+    },
+    {
+      "file": "ncs/010 - Electro-Light - Symbolism \uff5c Trap \uff5c NCS - Copyright Free Music [__CRWE-L45k].mp3",
+      "bpm": 112.3,
+      "key": "G# major",
+      "camelot": "?",
+      "energy": 0.169756,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.32
+    },
+    {
+      "file": "ncs/061 - Max Brhon - Cyberpunk \uff5c Bass \uff5c NCS - Copyright Free Music [iqoNoU-rm14].mp3",
+      "bpm": 112.3,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.19874,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.23
+    },
+    {
+      "file": "ncs/051 - Lost Sky - Fearless \uff5c Trap \uff5c NCS - Copyright Free Music [9rujCfYXhQc].mp3",
+      "bpm": 112.3,
+      "key": "F# major",
+      "camelot": "2B",
+      "energy": 0.292296,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.68
+    },
+    {
+      "file": "ncs/111 - Cartoon, J\u00e9ja - Howling (ft. Asena) \uff5c Electronic \uff5c NCS - Copyright Free Music [JiF3pbvR5G0].mp3",
+      "bpm": 117.5,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.271093,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.39
+    },
+    {
+      "file": "ncs/113 - Clarx - Bones \uff5c Future House \uff5c NCS - Copyright Free Music [8Tu0lcl75yg].mp3",
+      "bpm": 117.5,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.258422,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.72
+    },
+    {
+      "file": "ncs/008 - Cartoon, J\u00e9ja - Why We Lose (feat. Coleman Trapp) \uff5c DnB \uff5c NCS - Copyright Free Music [zyXmsVwZqX4].mp3",
+      "bpm": 117.5,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.319096,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.91
+    },
+    {
+      "file": "ncs/058 - Laszlo - Fall To Light \uff5c DnB \uff5c NCS - Copyright Free Music [Lq2UrnDsI_s].mp3",
+      "bpm": 117.5,
+      "key": "C# major",
+      "camelot": "?",
+      "energy": 0.262534,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.65
+    },
+    {
+      "file": "ncs/066 - Jim Yosef - Eclipse \uff5c House \uff5c NCS - Copyright Free Music [1WP_YLn1D1c].mp3",
+      "bpm": 123.0,
+      "key": "F# major",
+      "camelot": "2B",
+      "energy": 0.218006,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.37
+    },
+    {
+      "file": "ncs/042 - Axol x Alex Skrindo - You \uff5c Electro House \uff5c NCS - Copyright Free Music [sA_p0rQtDXE].mp3",
+      "bpm": 129.2,
+      "key": "B major",
+      "camelot": "1B",
+      "energy": 0.260322,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.87
+    },
+    {
+      "file": "ncs/097 - Tobu - Roots \uff5c House \uff5c NCS - Copyright Free Music [7wNb0pHyGuI].mp3",
+      "bpm": 129.2,
+      "key": "B major",
+      "camelot": "1B",
+      "energy": 0.325343,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.92
+    },
+    {
+      "file": "ncs/011 - Spektrem - Shine \uff5c Progressive House \uff5c NCS - Copyright Free Music [n4tK7LYFxI0].mp3",
+      "bpm": 129.2,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.262585,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.93
+    },
+    {
+      "file": "ncs/103 - RedMoon & Meron Ryan - Heavyweight \uff5c Progressive House \uff5c NCS - Copyright Free Music [otD-XbAhMbU].mp3",
+      "bpm": 129.2,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.232938,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.42
+    },
+    {
+      "file": "ncs/102 - Distrion & Electro-Light - Drakkar \uff5c House \uff5c NCS - Copyright Free Music [YJTae5ScvQA].mp3",
+      "bpm": 129.2,
+      "key": "C# minor",
+      "camelot": "12A",
+      "energy": 0.252874,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.8
+    },
+    {
+      "file": "ncs/071 - Lensko - Cetus \uff5c House \uff5c NCS - Copyright Free Music [i3vrV-WNmsc].mp3",
+      "bpm": 129.2,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.220293,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.13
+    },
+    {
+      "file": "ncs/057 - NIVIRO - The Ghost \uff5c House \uff5c NCS - Copyright Free Music [lTEzfj8IAR0].mp3",
+      "bpm": 129.2,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.173068,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.46
+    },
+    {
+      "file": "ncs/045 - Vanze - Forever (feat. Brenton Mattheus) \uff5c Progressive House \uff5c NCS - Copyright Free Music [RX7fZ5I709Y].mp3",
+      "bpm": 129.2,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.266011,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.75
+    },
+    {
+      "file": "ncs/060 - Dirty Palm - Freakshow (feat. LexBlaze) \uff5c Future Bounce \uff5c NCS - Copyright Free Music [2jwj9wVx3mg].mp3",
+      "bpm": 129.2,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.266397,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.08
+    },
+    {
+      "file": "ncs/015 - Robin Hustin x TobiMorrow - Light It Up (feat. Jex) \uff5c Future Bounce \uff5c NCS - Copyright Free Music [bdE_SyHad90].mp3",
+      "bpm": 129.2,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.306272,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.76
+    },
+    {
+      "file": "ncs/002 - Janji - Heroes Tonight (feat. Johnning) \uff5c Progressive House \uff5c NCS - Copyright Free Music [3nQNiWdeH2Q].mp3",
+      "bpm": 129.2,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.272763,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.48
+    },
+    {
+      "file": "ncs/081 - IZECOLD - Close (feat. Molly Ann) (Brooks Remix) \uff5c Future House \uff5c NCS - Copyright Free Music [bzehQ60b3XI].mp3",
+      "bpm": 129.2,
+      "key": "D minor",
+      "camelot": "6A",
+      "energy": 0.312504,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.17
+    },
+    {
+      "file": "ncs/088 - Jim Yosef - Can't Wait (feat. Anna Yvette) \uff5c House \uff5c NCS - Copyright Free Music [MqUCDzom5Xw].mp3",
+      "bpm": 129.2,
+      "key": "C# major",
+      "camelot": "?",
+      "energy": 0.283739,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.72
+    },
+    {
+      "file": "ncs/079 - Clarx - Zig Zag \uff5c Future House \uff5c NCS - Copyright Free Music [CLEWmT_8ppM].mp3",
+      "bpm": 129.2,
+      "key": "G# major",
+      "camelot": "?",
+      "energy": 0.236248,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.15
+    },
+    {
+      "file": "ncs/101 - Zaza - Be Together \uff5c Electronic \uff5c NCS - Copyright Free Music [gEbRqpFkTBk].mp3",
+      "bpm": 129.2,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.189462,
+      "crossfade_to_next": 7.0,
+      "transition_score": 8.13
+    },
+    {
+      "file": "ncs/025 - Elektronomia - Energy \uff5c Progressive House \uff5c NCS - Copyright Free Music [fzNMd3Tu1Zw].mp3",
+      "bpm": 129.2,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.345776,
+      "crossfade_to_next": 7.0,
+      "transition_score": 8.56
+    },
+    {
+      "file": "ncs/013 - Syn Cole - Feel Good \uff5c Future House \uff5c NCS - Copyright Free Music [q1ULJ92aldE].mp3",
+      "bpm": 123.0,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.29147,
+      "crossfade_to_next": 5.0,
+      "transition_score": 13.52
+    },
+    {
+      "file": "ncs/029 - Desmeon - Hellcat \uff5c Drumstep \uff5c NCS - Copyright Free Music [JSY6vBPunpY].mp3",
+      "bpm": 172.3,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.356727,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.63
+    },
+    {
+      "file": "ncs/032 - Unknown Brain - Why Do I\uff1f (feat. Bri Tolani) \uff5c Trap \uff5c NCS - Copyright Free Music [tcHJodG5hX8].mp3",
+      "bpm": 172.3,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.319558,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.47
+    },
+    {
+      "file": "ncs/037 - Cartoon, J\u00e9ja - C U Again ft. Mikk M\u00e4e (Cartoon, J\u00e9ja, Futuristik VIP) \uff5c NCS - Copyright Free Music [NJNp6DnAAIo].mp3",
+      "bpm": 172.3,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.32897,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.04
+    },
+    {
+      "file": "ncs/059 - JPB - Defeat The Night (feat. Ashley Apollodor) \uff5c Trap \uff5c NCS - Copyright Free Music [A_AtqKMqPUE].mp3",
+      "bpm": 172.3,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.278278,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.4
+    },
+    {
+      "file": "ncs/007 - Disfigure - Blank \uff5c Melodic Dubstep \uff5c NCS - Copyright Free Music [p7ZsBPK656s].mp3",
+      "bpm": 92.3,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.298945,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.58
+    },
+    {
+      "file": "ncs/027 - Unknown Brain - MATAFAKA (feat. Marvin Divine) \uff5c Trap \uff5c NCS - Copyright Free Music [AlXfbVpDUdo].mp3",
+      "bpm": 95.7,
+      "key": "F# major",
+      "camelot": "2B",
+      "energy": 0.3364,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.03
+    },
+    {
+      "file": "ncs/026 - Jim Yosef - Link \uff5c House \uff5c NCS - Copyright Free Music [9iHM6X6uUH8].mp3",
+      "bpm": 99.4,
+      "key": "F# major",
+      "camelot": "2B",
+      "energy": 0.270636,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.17
+    },
+    {
+      "file": "ncs/055 - Jim Yosef & Anna Yvette - Linked \uff5c House \uff5c NCS - Copyright Free Music [yHLtE1wFeRQ].mp3",
+      "bpm": 99.4,
+      "key": "F# major",
+      "camelot": "2B",
+      "energy": 0.273209,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.21
+    },
+    {
+      "file": "ncs/114 - Johnning - WHAT THE HELL \uff5c Electronic - Male Vocal \uff5c NCS - Copyright Free Music [Mhp2W3O_cXU].mp3",
+      "bpm": 103.4,
+      "key": "C# major",
+      "camelot": "?",
+      "energy": 0.243406,
+      "crossfade_to_next": 5.0,
+      "transition_score": 10.65
+    },
+    {
+      "file": "ncs/028 - Culture Code - Make Me Move (feat. Karra) \uff5c Dance Pop \uff5c NCS - Copyright Free Music [vBGiFtb8Rpw].mp3",
+      "bpm": 95.7,
+      "key": "G# major",
+      "camelot": "?",
+      "energy": 0.200595,
+      "crossfade_to_next": 5.0,
+      "transition_score": 11.05
+    },
+    {
+      "file": "ncs/068 - Unknown Brain - Perfect 10 (feat. Heather Sommer) \uff5c Trap \uff5c NCS - Copyright Free Music [AEVaK0e1kTE].mp3",
+      "bpm": 89.1,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.31074,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.82
+    },
+    {
+      "file": "ncs/003 - Warriyo - Mortals (feat. Laura Brehm) \uff5c Future Trap \uff5c NCS - Copyright Free Music [yJg-Y5byMMw].mp3",
+      "bpm": 89.1,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.298508,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.77
+    },
+    {
+      "file": "ncs/005 - Different Heaven & EH!DE - My Heart \uff5c Drumstep \uff5c NCS - Copyright Free Music [jK2aIUmmdP4].mp3",
+      "bpm": 172.3,
+      "key": "D major",
+      "camelot": "10B",
+      "energy": 0.295624,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.31
+    },
+    {
+      "file": "ncs/012 - Julius Dreisig & Zeus X Crona - Invisible \uff5c Trap \uff5c NCS - Copyright Free Music [QglaLzo_aPk].mp3",
+      "bpm": 83.4,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.280625,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.39
+    },
+    {
+      "file": "ncs/074 - Spektrum & Sara Skinner - Keep You \uff5c Trap \uff5c NCS - Copyright Free Music [YnmOmNqBWtM].mp3",
+      "bpm": 161.5,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.311936,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.2
+    },
+    {
+      "file": "ncs/099 - Rival x Cadmium - Willow Tree (feat. Rosendale) \uff5c Dubstep \uff5c NCS - Copyright Free Music [kddC4gi72UE].mp3",
+      "bpm": 152.0,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.278475,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.8
+    },
+    {
+      "file": "ncs/109 - Lemon Fight - Stronger (feat. Jessica Reynoso) \uff5c Electronic \uff5c NCS - Copyright Free Music [gDwVGS75sUA].mp3",
+      "bpm": 152.0,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.290738,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.52
+    },
+    {
+      "file": "ncs/018 - Jo Cohen & Sex Whales - We Are \uff5c Future Bass \uff5c NCS - Copyright Free Music [C6IaUMAg3Dc].mp3",
+      "bpm": 152.0,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.312709,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.67
+    },
+    {
+      "file": "ncs/096 - Egzod - Rise Up (ft. Veronica Bravo & M.I.M.E) \uff5c Trap \uff5c NCS - Copyright Free Music [aifDMH1p3zw].mp3",
+      "bpm": 152.0,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.320506,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.58
+    },
+    {
+      "file": "ncs/085 - Paul Flint - Savage \uff5c Dubstep \uff5c NCS - Copyright Free Music [8uSx3DyJjk0].mp3",
+      "bpm": 152.0,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.32634
+    }
+  ]
+}

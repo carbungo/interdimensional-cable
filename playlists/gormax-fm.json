@@ -1,0 +1,176 @@
+{
+  "station": "gormax-fm",
+  "genre": "space-funk",
+  "track_count": 19,
+  "tracks": [
+    {
+      "file": "space-funk/014 - Mars II.mp3",
+      "bpm": 136.0,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.170008,
+      "crossfade_to_next": 5.0,
+      "transition_score": 10.74
+    },
+    {
+      "file": "space-funk/002 - Saturn.mp3",
+      "bpm": 95.7,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.156051,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.34
+    },
+    {
+      "file": "space-funk/019 - Outro.mp3",
+      "bpm": 95.7,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.132309,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.31
+    },
+    {
+      "file": "space-funk/013 - Jupiter II.mp3",
+      "bpm": 95.7,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.134873,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.13
+    },
+    {
+      "file": "space-funk/012 - Venus II.mp3",
+      "bpm": 95.7,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.178843,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.02
+    },
+    {
+      "file": "space-funk/001 - Mercury.mp3",
+      "bpm": 92.3,
+      "key": "B major",
+      "camelot": "1B",
+      "energy": 0.166474,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.56
+    },
+    {
+      "file": "space-funk/006 - Earth.mp3",
+      "bpm": 92.3,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.131035,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.1
+    },
+    {
+      "file": "space-funk/017 - Pluto II.mp3",
+      "bpm": 172.3,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.142827,
+      "crossfade_to_next": 7.0,
+      "transition_score": 9.9
+    },
+    {
+      "file": "space-funk/007 - Uranus.mp3",
+      "bpm": 184.6,
+      "key": "D# major",
+      "camelot": "?",
+      "energy": 0.147241,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.72
+    },
+    {
+      "file": "space-funk/008 - Pluto.mp3",
+      "bpm": 95.7,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.145074,
+      "crossfade_to_next": 10.0,
+      "transition_score": 5.0
+    },
+    {
+      "file": "space-funk/015 - Earth II.mp3",
+      "bpm": 99.4,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.112805,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.48
+    },
+    {
+      "file": "space-funk/016 - Uranus II.mp3",
+      "bpm": 99.4,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.132839,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.15
+    },
+    {
+      "file": "space-funk/003 - Venus.mp3",
+      "bpm": 99.4,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.141808,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.56
+    },
+    {
+      "file": "space-funk/018 - Neptune II.mp3",
+      "bpm": 103.4,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.114896,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.33
+    },
+    {
+      "file": "space-funk/004 - Jupiter.mp3",
+      "bpm": 107.7,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.127819,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.86
+    },
+    {
+      "file": "space-funk/005 - Mars.mp3",
+      "bpm": 107.7,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.171672,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.59
+    },
+    {
+      "file": "space-funk/011 - Saturn II.mp3",
+      "bpm": 112.3,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.159232,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.1
+    },
+    {
+      "file": "space-funk/010 - Mercury II.mp3",
+      "bpm": 112.3,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.130782,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.17
+    },
+    {
+      "file": "space-funk/009 - Neptune.mp3",
+      "bpm": 117.5,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.154964
+    }
+  ]
+}

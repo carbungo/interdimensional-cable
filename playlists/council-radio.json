@@ -1,0 +1,635 @@
+{
+  "station": "council-radio",
+  "genre": "synthwave",
+  "track_count": 70,
+  "tracks": [
+    {
+      "file": "synthwave/074 - If Mozart Was Synthwave (Part 9) [Zw-NtOx6AZY].mp3",
+      "bpm": 117.5,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.231875,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.09
+    },
+    {
+      "file": "synthwave/017 - Anoraak - Long Distance Hearts [aRgXPNsWlFY].mp3",
+      "bpm": 117.5,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.234848,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.51
+    },
+    {
+      "file": "synthwave/002 - Dynatron - Stars of the Night [z5-mD6Dy7c0].mp3",
+      "bpm": 117.5,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.239604,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.89
+    },
+    {
+      "file": "synthwave/018 - Bourgeoisie - The Last Emperor [2HZUGrRhRIg].mp3",
+      "bpm": 117.5,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.215466,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.61
+    },
+    {
+      "file": "synthwave/044 - MALO - March of Progress [QBCLsnxNd4Y].mp3",
+      "bpm": 112.3,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.237492,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.65
+    },
+    {
+      "file": "synthwave/008 - Dynatron - Dust of the Saturn [1ud5yDjM63I].mp3",
+      "bpm": 112.3,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.258105,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.94
+    },
+    {
+      "file": "synthwave/039 - HOME - Resonance [8GW6sLrK40k].mp3",
+      "bpm": 112.3,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.320737,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.71
+    },
+    {
+      "file": "synthwave/053 - LEBROCK - One Night [h48rjAa_rpw].mp3",
+      "bpm": 112.3,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.192585,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.46
+    },
+    {
+      "file": "synthwave/009 - Power Glove - Streets of 2043 [pB9SsI6jZtI].mp3",
+      "bpm": 112.3,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.21244,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.07
+    },
+    {
+      "file": "synthwave/059 - Daniel Deluxe - Soul Siphon [S2C95K7Lgms].mp3",
+      "bpm": 112.3,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.220421,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.05
+    },
+    {
+      "file": "synthwave/066 - King Cyborg [rwwv4khJoCE].mp3",
+      "bpm": 112.3,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.204164,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.48
+    },
+    {
+      "file": "synthwave/011 - Power Glove - Motorcycle Cop (Ultra HQ) [Nqe7jPX6DQY].mp3",
+      "bpm": 112.3,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.163335,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.11
+    },
+    {
+      "file": "synthwave/006 - Bourgeoisie - The Alphabet City Elite [O4lmc6E-9dQ].mp3",
+      "bpm": 112.3,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.139638,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.72
+    },
+    {
+      "file": "synthwave/031 - Jordan F - So Close [wWVVtDBSa14].mp3",
+      "bpm": 107.7,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.220014,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.61
+    },
+    {
+      "file": "synthwave/060 - Trlogy - Electric Flame (Official Music Video) [txY34-uPOkQ].mp3",
+      "bpm": 107.7,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.210557,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.39
+    },
+    {
+      "file": "synthwave/025 - Dance With The Dead - Battle (HQ Official) [zzlZ8hB63YM].mp3",
+      "bpm": 107.7,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.136892,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.77
+    },
+    {
+      "file": "synthwave/071 - Pepe the frog - music clip (Marvel83' - Golden Dawn) [vJMP7RBsoms].mp3",
+      "bpm": 103.4,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.265034,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.2
+    },
+    {
+      "file": "synthwave/024 - Trevor Something - Fade Away [Explicit] [6gWXe6Am73E].mp3",
+      "bpm": 99.4,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.293867,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.83
+    },
+    {
+      "file": "synthwave/037 - Nightwave - Free Again [6QjBWp-vv3M].mp3",
+      "bpm": 99.4,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.275797,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.47
+    },
+    {
+      "file": "synthwave/020 - Tokyo Rose - Midnight Chase [KSgrL82Peic].mp3",
+      "bpm": 99.4,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.200021,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.06
+    },
+    {
+      "file": "synthwave/036 - Judge Bitch - MDK [2Lvf9wr7lbk].mp3",
+      "bpm": 103.4,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.200561,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.35
+    },
+    {
+      "file": "synthwave/068 - Mire. - Bury [WXZa5fdsB4Q].mp3",
+      "bpm": 103.4,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.235722,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.32
+    },
+    {
+      "file": "synthwave/034 - Savant - Prototype [WovPSTAJIVU].mp3",
+      "bpm": 107.7,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.341318,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.96
+    },
+    {
+      "file": "synthwave/072 - Psychedelic Pepe [WgoBRWQYkOM].mp3",
+      "bpm": 112.3,
+      "key": "B major",
+      "camelot": "1B",
+      "energy": 0.290339,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.98
+    },
+    {
+      "file": "synthwave/029 - Daniel Deluxe - Night Stalker [QZ8ZEbNZ9dQ].mp3",
+      "bpm": 117.5,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.301658,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.4
+    },
+    {
+      "file": "synthwave/014 - Dynatron - Pulse Power [Ak1-qLbHHCM].mp3",
+      "bpm": 117.5,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.330081,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.72
+    },
+    {
+      "file": "synthwave/055 - lana del rey - summertime sadness (sxade synthwave remix) \uff5c 80s [legendado\u29f8tradu\u00e7\u00e3o] [UdxANCQcHXY].mp3",
+      "bpm": 117.5,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.167767,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.93
+    },
+    {
+      "file": "synthwave/015 - Mega Drive - Total Control [MIuM8-pMyaQ].mp3",
+      "bpm": 123.0,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.197599,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.0
+    },
+    {
+      "file": "synthwave/005 - Lifelike - So Electric [G22X5X49VhM].mp3",
+      "bpm": 123.0,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.234321,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.66
+    },
+    {
+      "file": "synthwave/019 - Niky Nine - Ozuwara Theme [GT3qf8uW1hg].mp3",
+      "bpm": 123.0,
+      "key": "A minor",
+      "camelot": "7A",
+      "energy": 0.318598,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.84
+    },
+    {
+      "file": "synthwave/003 - LazerHawk - King of The Streets [eyZQUEMZlCU].mp3",
+      "bpm": 129.2,
+      "key": "D minor",
+      "camelot": "6A",
+      "energy": 0.248962,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.89
+    },
+    {
+      "file": "synthwave/026 - Miami Nights 1984 - Early Summer [I8FYYCI8MW8].mp3",
+      "bpm": 129.2,
+      "key": "D minor",
+      "camelot": "6A",
+      "energy": 0.168866,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.72
+    },
+    {
+      "file": "synthwave/032 - MIAMI NIGHTS 1984 - Saved By The Bell [foxVW0Ed0Dw].mp3",
+      "bpm": 129.2,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.159284,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.21
+    },
+    {
+      "file": "synthwave/033 - Neon Talk \u2013 Trying Hard [Fzc47Ma2TRU].mp3",
+      "bpm": 129.2,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.156222,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.77
+    },
+    {
+      "file": "synthwave/038 - Dynatron - Unquestionable Judgement [Cq3RWdHteSw].mp3",
+      "bpm": 129.2,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.200786,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.78
+    },
+    {
+      "file": "synthwave/051 - All The Damn Vampires - Saturday (feat. Mint Simon) [Official Video] [9XqDanKgjtU].mp3",
+      "bpm": 129.2,
+      "key": "B major",
+      "camelot": "1B",
+      "energy": 0.272687,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.63
+    },
+    {
+      "file": "synthwave/075 - The Midnight - Lost Boy [ilnF9fmkRJk].mp3",
+      "bpm": 136.0,
+      "key": "B major",
+      "camelot": "1B",
+      "energy": 0.242268,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.38
+    },
+    {
+      "file": "synthwave/064 - \uff48\uff45\uff59\u3000\uff59\uff41\uff01 (synthwave\u29f880s remix) [_I6I2JOJhHY].mp3",
+      "bpm": 143.6,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.184908,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.74
+    },
+    {
+      "file": "synthwave/048 - Volkor X - Enclave [e6MCkspqtxo].mp3",
+      "bpm": 69.8,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.298763,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.52
+    },
+    {
+      "file": "synthwave/022 - Flash Arnold - City Limits [B3nVYMX5D1E].mp3",
+      "bpm": 143.6,
+      "key": "G# major",
+      "camelot": "?",
+      "energy": 0.214536,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.96
+    },
+    {
+      "file": "synthwave/047 - The Midnight - Days of Thunder\u29f8 Gloria [TmQyfUpyeFk].mp3",
+      "bpm": 152.0,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.203937,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.95
+    },
+    {
+      "file": "synthwave/001 - Mega Drive - I Am The Program [_5joTyy3CCo].mp3",
+      "bpm": 152.0,
+      "key": "D# major",
+      "camelot": "?",
+      "energy": 0.159854,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.34
+    },
+    {
+      "file": "synthwave/049 - \u2020 Carpenter Brut \u2020 TURBO KILLER \u2020 Directed by Seth Ickerman \u2020 Official Video \u2020 [er416Ad3R1g].mp3",
+      "bpm": 143.6,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.099325,
+      "crossfade_to_next": 5.0,
+      "transition_score": 11.53
+    },
+    {
+      "file": "synthwave/052 - LeBrock - Interstellar (Official Music Video) [TMz5xVPYfPg].mp3",
+      "bpm": 136.0,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.326831,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.12
+    },
+    {
+      "file": "synthwave/063 - FM-84 - Running In The Night (feat. Ollie Wride) - [OFFICIAL MUSIC VIDEO] [TvZskcqdYcE].mp3",
+      "bpm": 136.0,
+      "key": "G major",
+      "camelot": "9B",
+      "energy": 0.190707,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.76
+    },
+    {
+      "file": "synthwave/042 - Miami Nights 1984 - Sunset Cruise.avi [snRbau9fQ74].mp3",
+      "bpm": 129.2,
+      "key": "D major",
+      "camelot": "10B",
+      "energy": 0.291346,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.88
+    },
+    {
+      "file": "synthwave/023 - Seip\u00e4 - Sunset Highway [hEurCxbKGAQ].mp3",
+      "bpm": 129.2,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.19593,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.41
+    },
+    {
+      "file": "synthwave/010 - Miami Nights 1984 - Ocean Drive [nLzjm9E1hwg].mp3",
+      "bpm": 129.2,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.102285,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.97
+    },
+    {
+      "file": "synthwave/035 - Remote - Black Fi [qbufWuDx_Ok].mp3",
+      "bpm": 123.0,
+      "key": "C# minor",
+      "camelot": "12A",
+      "energy": 0.266996,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.87
+    },
+    {
+      "file": "synthwave/027 - Lazerhawk - Beyond The Infinite Void [Dkx_PWjzbTM].mp3",
+      "bpm": 123.0,
+      "key": "C# minor",
+      "camelot": "12A",
+      "energy": 0.282282,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.69
+    },
+    {
+      "file": "synthwave/012 - Arcade High - Outrun This! [DCLSIg5WHRw].mp3",
+      "bpm": 123.0,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.283156,
+      "crossfade_to_next": 7.0,
+      "transition_score": 8.84
+    },
+    {
+      "file": "synthwave/028 - SHIN - The Door [_ClUc7AIh8Q].mp3",
+      "bpm": 117.5,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.152475,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.57
+    },
+    {
+      "file": "synthwave/070 - The Midnight - Los Angeles [VQxu5c2yXfw].mp3",
+      "bpm": 117.5,
+      "key": "D# major",
+      "camelot": "?",
+      "energy": 0.145402,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.99
+    },
+    {
+      "file": "synthwave/016 - Mega Drive - Maniac [nU0uTq6IhPM].mp3",
+      "bpm": 112.3,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.126258,
+      "crossfade_to_next": 7.0,
+      "transition_score": 8.14
+    },
+    {
+      "file": "synthwave/040 - Quixotic - Palms [mv1XUyRqcGU].mp3",
+      "bpm": 103.4,
+      "key": "C# minor",
+      "camelot": "12A",
+      "energy": 0.140172,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.94
+    },
+    {
+      "file": "synthwave/021 - Protector 101 - Bodyguard [e6eaarU7b2c].mp3",
+      "bpm": 99.4,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.127922,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.06
+    },
+    {
+      "file": "synthwave/045 - Stilz - Test Pilot Feat The Encounter [37XZWipAcZ8].mp3",
+      "bpm": 99.4,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.218956,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.74
+    },
+    {
+      "file": "synthwave/076 - SYNTHETIK\uff1a Legion Uprising OST [19bwPlaqFKY].mp3",
+      "bpm": 95.7,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.242156,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.57
+    },
+    {
+      "file": "synthwave/073 - Skynet [-Cd9D6Fj8vc].mp3",
+      "bpm": 95.7,
+      "key": "A minor",
+      "camelot": "7A",
+      "energy": 0.247894,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.18
+    },
+    {
+      "file": "synthwave/046 - SYNTHETIK\uff1a Legion Rising OST- Darksynth Outro [wPUKzYrygG8].mp3",
+      "bpm": 92.3,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.222069,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.17
+    },
+    {
+      "file": "synthwave/054 - The Pixies - Where Is My Mind (Retrowave Synthwave cover by The Motion) [XcV3rLSbY8E].mp3",
+      "bpm": 89.1,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.26823,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.24
+    },
+    {
+      "file": "synthwave/007 - Lazerhawk - Overdrive [x1NAhlVRaZ4].mp3",
+      "bpm": 89.1,
+      "key": "D major",
+      "camelot": "10B",
+      "energy": 0.223667,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.34
+    },
+    {
+      "file": "synthwave/050 - GUNSHIP - Tech Noir [Official Music Video] [-nC5TBv3sfU].mp3",
+      "bpm": 86.1,
+      "key": "D major",
+      "camelot": "10B",
+      "energy": 0.205112,
+      "crossfade_to_next": 7.0,
+      "transition_score": 8.37
+    },
+    {
+      "file": "synthwave/043 - Arvo Party - Chevy Chase  (Equilibrium) [jdtv99fZhQQ].mp3",
+      "bpm": 172.3,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.349603,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.46
+    },
+    {
+      "file": "synthwave/056 - W O L F C L U B - Tears [9Xv6BgVWGVo].mp3",
+      "bpm": 172.3,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.241469,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.48
+    },
+    {
+      "file": "synthwave/057 - The Midnight - Collateral [Music Video] [TiNWEm7fjv0].mp3",
+      "bpm": 89.1,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.224795,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.26
+    },
+    {
+      "file": "synthwave/030 - Jordan F - Hologram Rose [AqjrJdLX4Mw].mp3",
+      "bpm": 92.3,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.208991,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.38
+    },
+    {
+      "file": "synthwave/013 - Power Glove - Vengeance [8Jkuk-h6D9c].mp3",
+      "bpm": 92.3,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.204211,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.7
+    },
+    {
+      "file": "synthwave/061 - Forest Swords - Crow (Official Video) [lan-Pjv99Xk].mp3",
+      "bpm": 95.7,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.24781,
+      "crossfade_to_next": 5.0,
+      "transition_score": 12.19
+    },
+    {
+      "file": "synthwave/041 - Stellar Dreams - Dimensions [OSW--QRNg1w].mp3",
+      "bpm": 89.1,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.333533
+    }
+  ]
+}

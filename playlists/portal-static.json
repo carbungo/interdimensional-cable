@@ -1,0 +1,1157 @@
+{
+  "station": "portal-static",
+  "genre": "lofi-jazz",
+  "track_count": 128,
+  "tracks": [
+    {
+      "file": "lofi-jazz/075 - Campfire Music - Chillhop LoFi Guitar Instrumental & lofi hip hop beats \ud83d\udc3e [Vhweh2M_z8c].mp3",
+      "bpm": 92.3,
+      "key": "E minor",
+      "camelot": "9A",
+      "energy": 0.200984,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.74
+    },
+    {
+      "file": "lofi-jazz/050 - Winter Piano Chillhop Music [lofi hiphop \u29f8 chill relaxing beats] [PykJUK55HKs].mp3",
+      "bpm": 92.3,
+      "key": "C# major",
+      "camelot": "?",
+      "energy": 0.154991,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.26
+    },
+    {
+      "file": "lofi-jazz/127 - Jazz LoFi Chill Vibes Ocean Waves Music Mix\u2615\ufe0f instrumental lofi jazz relaxing music playlist [abl4g2nYgnI].mp3",
+      "bpm": 92.3,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.151833,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.21
+    },
+    {
+      "file": "lofi-jazz/100 - Vibes Beats Instrumental \uff02Melodic Beat\uff02 Acoustic Guitar Chill Beats Rap Instrumental Type Beat [IP2v6ZIIcwY].mp3",
+      "bpm": 89.1,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.170726,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.0
+    },
+    {
+      "file": "lofi-jazz/041 - [FREE]  PianoType Beat \uff02Melodic Beat\uff02 Hip Hop Instrumental (Sad R&B Rap Instrumental) [7vRycs7se84].mp3",
+      "bpm": 86.1,
+      "key": "C# minor",
+      "camelot": "12A",
+      "energy": 0.18345,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.87
+    },
+    {
+      "file": "lofi-jazz/086 - [FREE] Sad PianoType Beat \uff02Free\uff02Melodic Hip Hop Beat Instrumental [r9m2egDU3iM].mp3",
+      "bpm": 86.1,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.202519,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.92
+    },
+    {
+      "file": "lofi-jazz/099 - Melodic Beat\uff02 Vibes \uff02 Guitar Hip Hop Instrumental  - Type Beats [TfmvUZ-HuvQ].mp3",
+      "bpm": 86.1,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.186771,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.86
+    },
+    {
+      "file": "lofi-jazz/027 - [FREE] Best Freestyle Rap Instrumental Beat \uff5c The Fast and the Furious \uff5c Boom Bap Type Beat [euTJmSxidUo].mp3",
+      "bpm": 86.1,
+      "key": "C# minor",
+      "camelot": "12A",
+      "energy": 0.23467,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.35
+    },
+    {
+      "file": "lofi-jazz/095 - [FREE] Type Beat \uff02 Vibes \uff02 Guitar Piano\uff02Melodic Beat\uff02 Hip Hop Instrumental ( Rap Instrumental) [TC4v09YVHhw].mp3",
+      "bpm": 161.5,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.231519,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.62
+    },
+    {
+      "file": "lofi-jazz/067 - Piano Lofi Cillhop - jazzy & lofi hip hop beats [WYkN9kIeLig].mp3",
+      "bpm": 161.5,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.199821,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.07
+    },
+    {
+      "file": "lofi-jazz/102 - Soul R&B Instrumental \u2615 Jazz Hiphop & Smooth Jazz Beats - Relaxing Cafe Music , Chill Out [XQ7Qrt9Wmjs].mp3",
+      "bpm": 161.5,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.26032,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.85
+    },
+    {
+      "file": "lofi-jazz/121 - [FREE] Type Beat \uff02 sad dream \uff02 Vibes Guitar Piano Melodic Chill Beat\uff02 Hip Hop Rap Instrumental [_RD0TcvhNA8].mp3",
+      "bpm": 76.0,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.330979,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.8
+    },
+    {
+      "file": "lofi-jazz/072 - Chillhop - Zhorik Beat - Lofi Piano [VFfIXjWKCyk].mp3",
+      "bpm": 143.6,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.250538,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.02
+    },
+    {
+      "file": "lofi-jazz/087 - Vibes Type Beat Instrumental \uff02Melodic Beat\uff02 Acoustic Guitar Chill Beats Rap Instrumental [uq5iYuUxek8].mp3",
+      "bpm": 143.6,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.166038,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.87
+    },
+    {
+      "file": "lofi-jazz/083 - Chill Ocean\u2615 Work & Study Lofi Relaxing Soul R&B Music \u2615 The Very Best of LoFi ChillHop Instrumental [blERQmZFSOY].mp3",
+      "bpm": 143.6,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.112913,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.44
+    },
+    {
+      "file": "lofi-jazz/078 - \ud83c\udf69Coffe Lofi Jazz - Relaxing Smooth Background Jazz Music for Chill, Coffee Study\u2615Free music [44JCwv_6b2Y].mp3",
+      "bpm": 143.6,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.107839,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.28
+    },
+    {
+      "file": "lofi-jazz/035 - Chillhop Lofi Jazz \u29f8 Instrumental Hip Hop Beats Mix \u29f8 The Jazz Hop Caf\u00e9 [22A9yidU0PU].mp3",
+      "bpm": 143.6,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.099381,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.65
+    },
+    {
+      "file": "lofi-jazz/093 - \u2615 Jazz Hiphop & Smooth Jazz Mix - Relaxing Cafe Music For Work, Study, Sleep, Chill Out, ChillHop [QPLNk3Yho4c].mp3",
+      "bpm": 143.6,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.115563,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.82
+    },
+    {
+      "file": "lofi-jazz/116 - \u2615 Coffee LoFi Hip Hop Jazz & Smooth Jazz Mix - Cafe City Music [Tuty3Bo9PEM].mp3",
+      "bpm": 152.0,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.131929,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.29
+    },
+    {
+      "file": "lofi-jazz/094 - Jazz Mix LoFi Hiphop & Smooth Jazz Mix - Relaxing Cafe Music Work, Study, Sleep \u2615 Chill Mix Playlist [J9KI0i-FVfg].mp3",
+      "bpm": 152.0,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.099155,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.22
+    },
+    {
+      "file": "lofi-jazz/036 - \ud83c\udf41 fall jazz - Dj Zhorik \uff5c Jazz Music \uff5c Smooth Jazz  \uff5c Relaxing Jazz \ud83c\udf41 [6RNDAKBWxvo].mp3",
+      "bpm": 152.0,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.177992,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.65
+    },
+    {
+      "file": "lofi-jazz/124 - [FREE] Type Beat \uff02 Bible Images \uff02 Vibes Guitar Piano Melodic Chill Beat\uff02 Hip Hop Rap Instrumental [GPDWuE22nnE].mp3",
+      "bpm": 152.0,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.254889,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.24
+    },
+    {
+      "file": "lofi-jazz/120 - Vibes Type Beat \uff02 Love \uff02 Electric Guitar Piano Melodic Chill Beat\uff02 Hip Hop Rap Instrumental [2wsN0zKd894].mp3",
+      "bpm": 152.0,
+      "key": "D minor",
+      "camelot": "6A",
+      "energy": 0.18195,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.9
+    },
+    {
+      "file": "lofi-jazz/104 - FREE BEATS Guitar Vibe - Guitars Rap ChillHop- Lofi Beat Jazz RnB Chill Guitar Rap Beats [ctfAlfvzsqk].mp3",
+      "bpm": 80.7,
+      "key": "D minor",
+      "camelot": "6A",
+      "energy": 0.160231,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.75
+    },
+    {
+      "file": "lofi-jazz/062 - Dj Zhorik - Camp \u2716 Freestyle Beat \u2716 Acoustic Guitars \u25cf Rap Instrumental [tA2CetUU_-8].mp3",
+      "bpm": 83.4,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.191101,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.6
+    },
+    {
+      "file": "lofi-jazz/022 - Summer jazz  \uff5c Chillhop Jazzy & Lofi Hip Hop Beat - Dj Zhorik [tPChCxFjPuA].mp3",
+      "bpm": 83.4,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.057758,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.17
+    },
+    {
+      "file": "lofi-jazz/002 - warm evening -Zhorik \uff5c Jazz Beat \uff5c Chillhop Hip Hop [5VkLnEYHuTQ].mp3",
+      "bpm": 161.5,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.09154,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.12
+    },
+    {
+      "file": "lofi-jazz/026 - Sweet Home \uff5c Chillhop Jazzy & Lofi Hip Hop Beat - Dj Zhorik [yDl8bSWxsGg].mp3",
+      "bpm": 152.0,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.071838,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.84
+    },
+    {
+      "file": "lofi-jazz/016 - Chillhop  jazzy & lofi hip hop beat - Dj Zhorik [v62DOdBmhBg].mp3",
+      "bpm": 152.0,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.074769,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.15
+    },
+    {
+      "file": "lofi-jazz/032 - Beat Hip Hop Instrumental \u25cf Dj Zhorik- lighthouse [7ySJ6ZBRCKI].mp3",
+      "bpm": 152.0,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.09125,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.51
+    },
+    {
+      "file": "lofi-jazz/059 - Lofi [xajTWML_g38].mp3",
+      "bpm": 152.0,
+      "key": "F minor",
+      "camelot": "3A",
+      "energy": 0.359925,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.4
+    },
+    {
+      "file": "lofi-jazz/103 - FREE Bests Freestyle Rap Instrumental Type Beat GANGSTA FLOW [-NY6Yglz_I0].mp3",
+      "bpm": 161.5,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.227609,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.5
+    },
+    {
+      "file": "lofi-jazz/107 - Lofi Beats Chill Hip-Hop Rap Instrumental \uff5c HOME \uff5c Acoustic Guitar Type Beats [f8txQ2QLdSU].mp3",
+      "bpm": 80.7,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.210677,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.92
+    },
+    {
+      "file": "lofi-jazz/043 - \u2615 Lofi Beats \u25cf lofi acoustic guitar beat \u25cf chill mix \u2615 [yGoAw0ylKhE].mp3",
+      "bpm": 78.3,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.170234,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.93
+    },
+    {
+      "file": "lofi-jazz/112 - Chill Hip-Hop Instrumental \uff5c Lofi Jazz Beats \uff5c Acoustic Guitar Type Beats [FauDmwaQjTI].mp3",
+      "bpm": 80.7,
+      "key": "C# minor",
+      "camelot": "12A",
+      "energy": 0.20093,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.58
+    },
+    {
+      "file": "lofi-jazz/006 - ChillHop Jazz Hip Hop Music \u25cf Dj Zhorik - little dreamer [WM3D5moWOmM].mp3",
+      "bpm": 80.7,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.120745,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.62
+    },
+    {
+      "file": "lofi-jazz/008 - RnB Soul instrumental beat \u25cf Zhorik - Urban Jazz [M_S18YO-1Nc].mp3",
+      "bpm": 83.4,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.110492,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.91
+    },
+    {
+      "file": "lofi-jazz/089 - Acoustic Guitar Rap Instrumental \uff02Melodic Beat\uff02 Vibes Type Beats [2yzZwDygeuc].mp3",
+      "bpm": 83.4,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.140114,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.15
+    },
+    {
+      "file": "lofi-jazz/117 - Chill LoFi Melodic  \uff02Sed Acoustic Guitar\uff02  Chill Beats Rap Instrumental Type Beat [96ammNIuyCY].mp3",
+      "bpm": 89.1,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.116645,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.36
+    },
+    {
+      "file": "lofi-jazz/011 - Chill Jazz Beat Music - Dj Zhorik crossroads [LvETeIIuUZc].mp3",
+      "bpm": 89.1,
+      "key": "D# major",
+      "camelot": "?",
+      "energy": 0.086523,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.4
+    },
+    {
+      "file": "lofi-jazz/013 - Dj Zhorik - Jazz Beat \uff5c Chillhop Hip Hop [aeUeF8nX8Rs].mp3",
+      "bpm": 89.1,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.083919,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.79
+    },
+    {
+      "file": "lofi-jazz/009 - Dj Zhorik - Jazz Beat \uff5c Chillhop Hip Hop Funk Soul Beats \uff5c Acid Jazz Instrumentals [ZHcRAcfWa7g].mp3",
+      "bpm": 89.1,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.088785,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.76
+    },
+    {
+      "file": "lofi-jazz/012 - [FREE] RnB Beat Dj Zhorik \uff5c R&B\u29f8Soul 90s beat Instrumental 2020 [gPMJJSvh7_0].mp3",
+      "bpm": 89.1,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.103594,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.91
+    },
+    {
+      "file": "lofi-jazz/082 - [FREE] Sad PianoType Beat \uff02Melodic Beat\uff02 Hip Hop Instrumental  R&B Rap Beats [758__q3dUsY].mp3",
+      "bpm": 89.1,
+      "key": "D minor",
+      "camelot": "6A",
+      "energy": 0.186547,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.72
+    },
+    {
+      "file": "lofi-jazz/057 - \ud83d\udd25Lofi Christmas \ud83c\udf84Instrumental chillhop  beats \u26c4 [xtuoU-jnLkY].mp3",
+      "bpm": 89.1,
+      "key": "D minor",
+      "camelot": "6A",
+      "energy": 0.174828,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.48
+    },
+    {
+      "file": "lofi-jazz/129 - \ud83c\udf34  Jazz LoFi Chill Vibes Ocean Waves Music Mix\u2615\ufe0f instrumental lofi jazz beats relaxing [M3BQx9boemE].mp3",
+      "bpm": 184.6,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.181847,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.67
+    },
+    {
+      "file": "lofi-jazz/029 - Jazz Caffe \uff5c Lofi Jazz ChillHop Beat \uff5c Smooth Jazz Chill lounge music & Dj Zhorik [ti48PEFa9Dc].mp3",
+      "bpm": 184.6,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.093927,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.89
+    },
+    {
+      "file": "lofi-jazz/045 - Smooth Jazz Chillout Lounge \u2022 Smooth Jazz Instrumental - urban beat [VVve8O3Yazk].mp3",
+      "bpm": 99.4,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.090011,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.8
+    },
+    {
+      "file": "lofi-jazz/110 - Chill House \ud83c\udfdd\ufe0f House x Club Type Beat  \uff5c EDM Deep House Instrumental \uff5c Club Dance Beat [NVXf6fO_gws].mp3",
+      "bpm": 95.7,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.241046,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.53
+    },
+    {
+      "file": "lofi-jazz/074 - God's Promises \u29f8 Chillhop loFi Music \u2022 Summer 2023 [chill lofi beats \u29f8 instrumental hiphop] [akBqX6SzGx4].mp3",
+      "bpm": 95.7,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.153592,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.66
+    },
+    {
+      "file": "lofi-jazz/019 - Jazz - Bboy Breaks\uff5chip hop international\uff5cBeat - Dj Zhorik [tAQqLi0SBDI].mp3",
+      "bpm": 95.7,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.092433,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.14
+    },
+    {
+      "file": "lofi-jazz/096 - Rap Instrumental Beat 2018 (Dj Zhorik) [TaLYXIHTksw].mp3",
+      "bpm": 92.3,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.236877,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.03
+    },
+    {
+      "file": "lofi-jazz/109 - Chill House x Club Type Beat - \uff02Car Music\uff02 \uff5c EDM Deep House Instrumental \uff5c Arabic House Music [F5bVS6vBy-M].mp3",
+      "bpm": 92.3,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.318684,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.9
+    },
+    {
+      "file": "lofi-jazz/039 - Dj Zhorik - So Jazz \uff5cfree jazz \uff5c Jazz Caffe \uff5c Lofi Jazz ChillHop Beat \ud83c\udf41 [k0X4IstEAMc].mp3",
+      "bpm": 92.3,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.057311,
+      "crossfade_to_next": 7.0,
+      "transition_score": 8.67
+    },
+    {
+      "file": "lofi-jazz/005 - Smooth Jazz ChillHop Beat \u25cf warm house - Zhorik music [aAMZwmG7bjw].mp3",
+      "bpm": 172.3,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.072543,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.13
+    },
+    {
+      "file": "lofi-jazz/014 - Chill Out & Smooth Jazz Mix & Jazz Hip Hop Music  Instrumental [EGMsSnjzWM0].mp3",
+      "bpm": 172.3,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.083446,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.88
+    },
+    {
+      "file": "lofi-jazz/024 - \ud83c\udf28 chill lofi jazz mix\u2615\ufe0f coffee jazz instrumental beats hip hop chillhop playlist \ud83c\udf19 Lounge [g9lkpz5RhVc].mp3",
+      "bpm": 172.3,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.087959,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.63
+    },
+    {
+      "file": "lofi-jazz/034 - \ud83d\ude8c  Travelling Chill jazz Smooth Jazz Beats  Instrumental Music Hip Hop Jazz Coffee Music \u2615 [DQFxoJcrn4g].mp3",
+      "bpm": 172.3,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.088324,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.48
+    },
+    {
+      "file": "lofi-jazz/018 - Summer jazz \uff5c Chillhop Jazzy & Lofi Hip Hop Beat \uff5c rain in the tent - Dj Zhorik [kAQ7DNtL850].mp3",
+      "bpm": 172.3,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.093213,
+      "crossfade_to_next": 7.0,
+      "transition_score": 8.66
+    },
+    {
+      "file": "lofi-jazz/015 - Chill House \uff5c Summer Beats -Dj Zhorik [RtsXLCtGtas].mp3",
+      "bpm": 86.1,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.08283,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.77
+    },
+    {
+      "file": "lofi-jazz/065 - Broken City (Lofi Hip Hop) [tiJuvMi651A].mp3",
+      "bpm": 172.3,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.28508,
+      "crossfade_to_next": 7.0,
+      "transition_score": 8.59
+    },
+    {
+      "file": "lofi-jazz/076 - ChillHop Becky G  lofi beats instrumental hiphop Good Vibes Beat \ud83c\udf41 [Rv9ozzUd0ZQ].mp3",
+      "bpm": 83.4,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.307959,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.79
+    },
+    {
+      "file": "lofi-jazz/070 - When I Lock Eyes (Lofi Hip Hop) [Jp35yqp9WD8].mp3",
+      "bpm": 80.7,
+      "key": "D# major",
+      "camelot": "?",
+      "energy": 0.318985,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.7
+    },
+    {
+      "file": "lofi-jazz/061 - Tokyo lo fi [vKwA4thTZXA].mp3",
+      "bpm": 78.3,
+      "key": "G major",
+      "camelot": "9B",
+      "energy": 0.301569,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.06
+    },
+    {
+      "file": "lofi-jazz/073 - \ud83c\udf42 Chillhop \u2022 cozy lofi \u29f8 chill instrumental beats to relax - good vibes beat [8mckSHJJQRY].mp3",
+      "bpm": 161.5,
+      "key": "G major",
+      "camelot": "9B",
+      "energy": 0.19429,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.05
+    },
+    {
+      "file": "lofi-jazz/060 - Guitar Vibe - Guitars Rap ChillHop-  Lofi Beat Jazz RnB Chill Guitar Pop Beats [UR8hNhKQY4U].mp3",
+      "bpm": 161.5,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.193878,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.34
+    },
+    {
+      "file": "lofi-jazz/101 - ChillHop Lo-Fi Soul R&B Instrumental \u2615 Jazz Hiphop & Smooth Jazz Beats - Relaxing Cafe [PfaSaT4rqvk].mp3",
+      "bpm": 161.5,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.211261,
+      "crossfade_to_next": 10.0,
+      "transition_score": 0.34
+    },
+    {
+      "file": "lofi-jazz/090 - Guitar Chill Soul LoFi Instrumental Music For Sweet Home, Study, Mix Playlist Beats Music [zm8E0ssLSPU].mp3",
+      "bpm": 161.5,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.199265,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.31
+    },
+    {
+      "file": "lofi-jazz/080 - Jazz Hiphop & Smooth Jazz Mix - Relaxing Cafe Music For Work, Study, Sleep \u2615 Chill Out Piano [8EjHKpm6vS8].mp3",
+      "bpm": 161.5,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.134243,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.24
+    },
+    {
+      "file": "lofi-jazz/020 - Smooth Jazz Chill lounge music \u25cfDj Zhorik - old friend [0WRdwS5Xi80].mp3",
+      "bpm": 161.5,
+      "key": "D# major",
+      "camelot": "?",
+      "energy": 0.116504,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.97
+    },
+    {
+      "file": "lofi-jazz/048 - Leaf Fall Chillhop Music [lofi hiphop \u29f8 chill relaxing beats] [PabltKF4HwE].mp3",
+      "bpm": 161.5,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.260233,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.18
+    },
+    {
+      "file": "lofi-jazz/091 - Chill Type Beat Instrumental \uff02Melodic Piano Beat\uff02 Guitar Rap Beats Instrumental [yxs8JoJR5YI].mp3",
+      "bpm": 161.5,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.249038,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.57
+    },
+    {
+      "file": "lofi-jazz/068 - Chillhop loFi Music \u2022 Summer 2023 [chill lofi beats \u29f8 instrumental hiphop] [5Pn6EV2Tz60].mp3",
+      "bpm": 161.5,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.24805,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.2
+    },
+    {
+      "file": "lofi-jazz/105 - Melodic Beats\uff02 Vibes \uff02 Guitar Piano Hip Hop Instrumental - Type Rap Beats Chill Beat [HuYpacDlFYM].mp3",
+      "bpm": 86.1,
+      "key": "G major",
+      "camelot": "9B",
+      "energy": 0.246596,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.03
+    },
+    {
+      "file": "lofi-jazz/119 - [FREE] Type Beat \uff02 Vibes \uff02 Electric Guitar Piano Melodic Chill Beat\uff02 Hip Hop Rap Instrumental [HVFw6YtSRE0].mp3",
+      "bpm": 86.1,
+      "key": "A minor",
+      "camelot": "7A",
+      "energy": 0.258653,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.15
+    },
+    {
+      "file": "lofi-jazz/113 - Free Beat \uff02Melodic Acoustic Guitar\uff02  Chill Beats Rap Instrumental Type Beat Sed Girl [JQ0oPWzj-gY].mp3",
+      "bpm": 86.1,
+      "key": "A minor",
+      "camelot": "7A",
+      "energy": 0.226095,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.13
+    },
+    {
+      "file": "lofi-jazz/049 - [FREE] Type Beat \uff02 Vibes \uff02 Guitar Piano Melodic Chill Beat\uff02 Hip Hop Instrumental (Rap Instrumental) [MiPhMHtF3tI].mp3",
+      "bpm": 86.1,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.189031,
+      "crossfade_to_next": 5.0,
+      "transition_score": 10.09
+    },
+    {
+      "file": "lofi-jazz/030 - Jazz Piano Slow Jazz Music Lofi  Chill [-ATWrRPlpnU].mp3",
+      "bpm": 89.1,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.029617,
+      "crossfade_to_next": 5.0,
+      "transition_score": 10.93
+    },
+    {
+      "file": "lofi-jazz/028 - evening city \uff5c Lofi Jazz ChillHop Beats & Dj Zhorik [zOmtzpO2ems].mp3",
+      "bpm": 184.6,
+      "key": "A major",
+      "camelot": "11B",
+      "energy": 0.081811,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.76
+    },
+    {
+      "file": "lofi-jazz/033 - Acoustic Guitars Rap Beat Instrumental 2018 [rCPl8-diRCE].mp3",
+      "bpm": 99.4,
+      "key": "D major",
+      "camelot": "10B",
+      "energy": 0.120851,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.32
+    },
+    {
+      "file": "lofi-jazz/111 - \u2615  LoFi Jazz Smooth Jazz Chill lounge music Relaxing Cafe Music For Work, Study, Sleep \u25cf Slow Jazz \u2615 [nUVDxPwa5q0].mp3",
+      "bpm": 103.4,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.227717,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.67
+    },
+    {
+      "file": "lofi-jazz/108 - \u2615 Piano  LoFi Jazz Smooth Jazz Chill lounge music Relaxing Cafe Music For Work, Study \u25cf SlowJazz \u2615 [UVZf4Y1fID0].mp3",
+      "bpm": 107.7,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.221006,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.2
+    },
+    {
+      "file": "lofi-jazz/106 - Evening Work Office & Study Lofi Beat - Relaxing Smooth Background Chillhop Music for Work, , Daily [f-TKG7twv4w].mp3",
+      "bpm": 107.7,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.221771,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.19
+    },
+    {
+      "file": "lofi-jazz/064 - crying rain (Lofi Chill) [9SQYsvspDgw].mp3",
+      "bpm": 107.7,
+      "key": "A major",
+      "camelot": "11B",
+      "energy": 0.134595,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.26
+    },
+    {
+      "file": "lofi-jazz/069 - lofi grace [meLVP9R0h28].mp3",
+      "bpm": 112.3,
+      "key": "B major",
+      "camelot": "1B",
+      "energy": 0.136763,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.88
+    },
+    {
+      "file": "lofi-jazz/046 - \u2744 Snow \u2744  Christmas music lofi hip hop - christmas chillhop\ud83c\udf84 [AStO6wy2_SA].mp3",
+      "bpm": 215.3,
+      "key": "F# major",
+      "camelot": "2B",
+      "energy": 0.154419,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.81
+    },
+    {
+      "file": "lofi-jazz/115 - Chill House \ud83c\udfdd\ufe0f Soft & Relaxing House Music \uff5c The Good Life Chill Vibes instrumental   \ud83c\udf04 [9-yHkR8hRVU].mp3",
+      "bpm": 99.4,
+      "key": "F# major",
+      "camelot": "2B",
+      "energy": 0.279155,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.95
+    },
+    {
+      "file": "lofi-jazz/092 - [LoFi Beat]  PianoType Beat \uff02Melodic Beat\uff02 Hip Hop Instrumental (Sad R&B Rap Instrumental) [yVWIHQ7vlUw].mp3",
+      "bpm": 95.7,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.192045,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.24
+    },
+    {
+      "file": "lofi-jazz/122 - [FREE] Type Beat \uff02 Nous on sait\uff02 Vibes Guitar Piano Melodic Chill Beat\uff02 Hip Hop Instrumental [JPWGbj7AoHw].mp3",
+      "bpm": 198.8,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.173307,
+      "crossfade_to_next": 5.0,
+      "transition_score": 10.87
+    },
+    {
+      "file": "lofi-jazz/125 - Jazz LoFi Chill Vibes Music Mix\u2615\ufe0f instrumental lofi jazz relaxing music playlist [zShMV3xmXN4].mp3",
+      "bpm": 136.0,
+      "key": "A major",
+      "camelot": "11B",
+      "energy": 0.15769,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.64
+    },
+    {
+      "file": "lofi-jazz/037 - lofi hip hop \u29f8 chill beats \u29f8 piano beat [0z38ftE4tes].mp3",
+      "bpm": 136.0,
+      "key": "G major",
+      "camelot": "9B",
+      "energy": 0.124794,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.96
+    },
+    {
+      "file": "lofi-jazz/077 - Cozy Night Coffee \u2615 Lofi Jazz Beats to Relax\u29f8Sleep\u29f8Study to \u2615 Lofi Caf\u00e9 - Free Music [lMxMEYn2aew].mp3",
+      "bpm": 136.0,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.084667,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.83
+    },
+    {
+      "file": "lofi-jazz/021 - Summer jazz \uff5c Chillhop Jazzy & Lofi Hip Hop Beat \uff5c cozy house -Dj Zhorik [PuW-_I7OKUg].mp3",
+      "bpm": 129.2,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.090029,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.6
+    },
+    {
+      "file": "lofi-jazz/056 - Chill jazz Smooth Jazz Beats Instrumental Music Hip Hop Jazz Coffee Music [57qLVzjYTTQ].mp3",
+      "bpm": 129.2,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.084772,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.13
+    },
+    {
+      "file": "lofi-jazz/126 - Sleep Jazz - Soothing Lo-Fi Jazz Music - Relaxing LoFi Cill Jazz Music - Background Jazz Music [k17EJhmiusA].mp3",
+      "bpm": 129.2,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.118301,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.48
+    },
+    {
+      "file": "lofi-jazz/053 - \u2744 Christmas Chillhop \u00b7 lo-fi hip hop \u29f8 jazzhop Study \u29f8 Sleep \u29f8 Relax music \u2744 [gRwzC5gPrmE].mp3",
+      "bpm": 129.2,
+      "key": "B major",
+      "camelot": "1B",
+      "energy": 0.150195,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.7
+    },
+    {
+      "file": "lofi-jazz/084 - Chill Beat PianoType Beat \uff02Melodic Rap Beat\uff02 Hip Hop Instrumental (Sad guitar beats Instrumental) [SK0oOE9DeZY].mp3",
+      "bpm": 123.0,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.166321,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.91
+    },
+    {
+      "file": "lofi-jazz/054 - \ud83c\udf85  christmas chillhop lofi hiphop - message \u00b7 lo-fi hip hop \u29f8 jazzhop Study \u29f8 Sleep \u29f8 Relax music \ud83c\udf84 [uoJRt5IVSck].mp3",
+      "bpm": 123.0,
+      "key": "C# minor",
+      "camelot": "12A",
+      "energy": 0.220481,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.82
+    },
+    {
+      "file": "lofi-jazz/058 - \ud83d\udd25Christmas Chill Chillhop\ud83c\udf84Instrumental chillhop beats \u26c4 [svNOAPvrRRE].mp3",
+      "bpm": 117.5,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.205004,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.43
+    },
+    {
+      "file": "lofi-jazz/123 - [FREE] Type Beat \uff02 dream \uff02 Vibes Guitar Piano Melodic Chill Beat\uff02 Hip Hop Rap Instrumental [47HftKX5n_o].mp3",
+      "bpm": 129.2,
+      "key": "B minor",
+      "camelot": "10A",
+      "energy": 0.276114,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.28
+    },
+    {
+      "file": "lofi-jazz/042 - Acoustic Rap Instrumental Beat 2018 [UMsYK67eIDE].mp3",
+      "bpm": 129.2,
+      "key": "A major",
+      "camelot": "11B",
+      "energy": 0.299486,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.95
+    },
+    {
+      "file": "lofi-jazz/118 - ChillHop LoFi \uff02 Vibes \uff02 Guitar Piano Melodic Chill Beat\uff02 Hip Hop Rap Instrumental [3Jfk8zlQqt8].mp3",
+      "bpm": 68.0,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.100349,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.76
+    },
+    {
+      "file": "lofi-jazz/001 - Smooth Jazz Chill lounge music \u25cf Zhorik - your voice \u25cf SlowJazz [dnWN1wzGiMA].mp3",
+      "bpm": 66.3,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.072716,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.98
+    },
+    {
+      "file": "lofi-jazz/055 - \ud83c\udf85  christmas chillhop  lofi hiphop - Have Yourself a Merry Little Christmas  \ud83c\udf84 [a1Oo1OSPCQM].mp3",
+      "bpm": 66.3,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.055769,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.46
+    },
+    {
+      "file": "lofi-jazz/088 - ChillHop Lo-Fi \uff5c Rain Bokeh Motion 4k Graphics \uff5c Free Background instagram and facebook music [s_HgfM3PzvU].mp3",
+      "bpm": 136.0,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.077723,
+      "crossfade_to_next": 10.0,
+      "transition_score": 1.58
+    },
+    {
+      "file": "lofi-jazz/079 - \u2615 Piano LoFi Jazz Smooth Jazz Chill lounge Beats Relaxing Cafe Music For Work, Study \u25cf SlowJazz \u2615 [2bilWzBuFSk].mp3",
+      "bpm": 136.0,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.08053,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.05
+    },
+    {
+      "file": "lofi-jazz/038 - \u2744 christmas evening - Dj Zhorik \ud83c\udf84 Christmas chillhop jazz beat \u2744 [Td0sFZDaxBY].mp3",
+      "bpm": 136.0,
+      "key": "B major",
+      "camelot": "1B",
+      "energy": 0.101334,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.55
+    },
+    {
+      "file": "lofi-jazz/097 - Melodic Beats\uff02 Vibes \uff02 Guitar Hip Hop Instrumental - Type Rap Beats Chill Beat [CepZKdBpIgE].mp3",
+      "bpm": 143.6,
+      "key": "B major",
+      "camelot": "1B",
+      "energy": 0.236207,
+      "crossfade_to_next": 7.0,
+      "transition_score": 8.02
+    },
+    {
+      "file": "lofi-jazz/017 - evening jazz \uff5c Lofi Jazz ChillHop Beats & Dj Zhorik [j4JKppbpMeQ].mp3",
+      "bpm": 73.8,
+      "key": "G# minor",
+      "camelot": "1A",
+      "energy": 0.073172,
+      "crossfade_to_next": 10.0,
+      "transition_score": 2.93
+    },
+    {
+      "file": "lofi-jazz/044 - Chillhop lofi jazz  instrumental hip hop beats [ZEg-6BjDjl8].mp3",
+      "bpm": 73.8,
+      "key": "D# minor",
+      "camelot": "2A",
+      "energy": 0.106859,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.36
+    },
+    {
+      "file": "lofi-jazz/003 - Jazz RnB Soul instrumental beat \u25cf Zhorik - I need you [xGtM3PzlDYg].mp3",
+      "bpm": 73.8,
+      "key": "F# minor",
+      "camelot": "11A",
+      "energy": 0.085316,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.51
+    },
+    {
+      "file": "lofi-jazz/031 - Jazz Hop Caffe  \uff5c Lofi Jazz ChillHop Beats & Dj Zhorik [oEzOnm0jGY4].mp3",
+      "bpm": 73.8,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.080837,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.04
+    },
+    {
+      "file": "lofi-jazz/010 - Amazing Grace \uff5c Chillhop Hip Hop Funk Soul Beats \uff5c RnB Instrumentals \uff5c Dj Zhorik [PJTF5Jqq3LQ].mp3",
+      "bpm": 76.0,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.08923,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.92
+    },
+    {
+      "file": "lofi-jazz/114 - LoFi Hiphop & Smooth Jazz Mix - Relaxing Cafe Music For City Work, Study, Sleep \u2615 Chill Mix Playlist [ZU9bztmosos].mp3",
+      "bpm": 76.0,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.145198,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.48
+    },
+    {
+      "file": "lofi-jazz/040 - \ud83c\udf85 white christmas lofi hip hop - christmas chillhop\ud83c\udf84 [zgRKgyfvap4].mp3",
+      "bpm": 80.7,
+      "key": "A# major",
+      "camelot": "?",
+      "energy": 0.168249,
+      "crossfade_to_next": 5.0,
+      "transition_score": 10.74
+    },
+    {
+      "file": "lofi-jazz/063 - Jazz Hiphop & Smooth Jazz Mix - Relaxing Cafe Music For Work, Study, Sleep \u2615 Chill Out [kjlCqWKC7PY].mp3",
+      "bpm": 152.0,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.085063,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.06
+    },
+    {
+      "file": "lofi-jazz/004 - Way Maker  \uff5c Chillhop Gospel & Worship Prayer Beat \uff5c Dj Zhorik [SHoqBuDYF9g].mp3",
+      "bpm": 152.0,
+      "key": "C# major",
+      "camelot": "?",
+      "energy": 0.06841,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.94
+    },
+    {
+      "file": "lofi-jazz/085 - FreeBeat Acoustic Guitar Rap Instrumental \uff02Melodic Beat\uff02 Vibes Type Beats Rain [yjwGqJ7ZAHE].mp3",
+      "bpm": 143.6,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.064111,
+      "crossfade_to_next": 7.0,
+      "transition_score": 7.73
+    },
+    {
+      "file": "lofi-jazz/025 - free jazz \uff5c rainy \uff5c Slow Jazz Music \uff5c Dj Zhorik [5814E0Jfzis].mp3",
+      "bpm": 68.0,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.064497,
+      "crossfade_to_next": 7.0,
+      "transition_score": 5.73
+    },
+    {
+      "file": "lofi-jazz/007 - ChillHop Smooth Jazz Piano Music \u25cf Zhorik - my way [MwPf7Imt33A].mp3",
+      "bpm": 129.2,
+      "key": "G minor",
+      "camelot": "5A",
+      "energy": 0.076233,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.59
+    },
+    {
+      "file": "lofi-jazz/128 - REGGAE  RAP SOUL INSTRUMENTAL \u2615\ufe0f Jazz LoFi Chill Vibes Ocean Waves Music Mix [sf61XXt7Pmo].mp3",
+      "bpm": 136.0,
+      "key": "C minor",
+      "camelot": "4A",
+      "energy": 0.151953,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.9
+    },
+    {
+      "file": "lofi-jazz/023 - Chillhop Mix\u2615\ufe0f instrumental beats compilation lofi jazz beats hip hop \ud83d\udd25 warm chillhop playlist [drja4nUK4ow].mp3",
+      "bpm": 129.2,
+      "key": "A# minor",
+      "camelot": "?",
+      "energy": 0.150428,
+      "crossfade_to_next": 7.0,
+      "transition_score": 9.78
+    },
+    {
+      "file": "lofi-jazz/081 - \u2615 Coffee LoFi Chillhop & Jazzhop - Relaxing Cafe Music For Sweet Home, Study, Mix Playlist Music [9dggdeCJva4].mp3",
+      "bpm": 117.5,
+      "key": "C major",
+      "camelot": "7B",
+      "energy": 0.153173,
+      "crossfade_to_next": 10.0,
+      "transition_score": 4.36
+    },
+    {
+      "file": "lofi-jazz/047 - \ud83d\udd25Christmas Jazz \ud83c\udf84Instrumental jazz RnB beat \u26c4 Smooth Jazz [5lUqMOpcLac].mp3",
+      "bpm": 112.3,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.13703,
+      "crossfade_to_next": 10.0,
+      "transition_score": 3.21
+    },
+    {
+      "file": "lofi-jazz/051 - chillhop coffee jazz, Warm Tea (Jazz Lofi) [H1PNzIwnOJc].mp3",
+      "bpm": 112.3,
+      "key": "F major",
+      "camelot": "6B",
+      "energy": 0.051306,
+      "crossfade_to_next": 5.0,
+      "transition_score": 10.09
+    },
+    {
+      "file": "lofi-jazz/071 - Lo Fi Piano - Peaceful Piano & Soft Rain - Relaxing Music - Jazz Chill [S8XgoraxQZs].mp3",
+      "bpm": 107.7,
+      "key": "D major",
+      "camelot": "10B",
+      "energy": 0.033125,
+      "crossfade_to_next": 7.0,
+      "transition_score": 6.58
+    },
+    {
+      "file": "lofi-jazz/098 - \u2744 Winter Forest \u2744 Christmas music lofi hip hop - christmas chillhop\ud83c\udf84 [hgllfeUl3Gw].mp3",
+      "bpm": 107.7,
+      "key": "E major",
+      "camelot": "12B",
+      "energy": 0.299717,
+      "crossfade_to_next": 5.0,
+      "transition_score": 10.92
+    },
+    {
+      "file": "lofi-jazz/052 - Ableton Live 10 - jazz (Dj Zhorik) [vxiu-PtGF6g].mp3",
+      "bpm": 50.7,
+      "key": "G major",
+      "camelot": "9B",
+      "energy": 0.059218
+    }
+  ]
+}

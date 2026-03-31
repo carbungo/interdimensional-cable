@@ -1,0 +1,92 @@
+{
+  "space-funk/014 - Mars II.mp3": {
+    "next": "space-funk/002 - Saturn.mp3",
+    "crossfade_s": 5.0,
+    "score": 10.74
+  },
+  "space-funk/002 - Saturn.mp3": {
+    "next": "space-funk/019 - Outro.mp3",
+    "crossfade_s": 10.0,
+    "score": 2.34
+  },
+  "space-funk/019 - Outro.mp3": {
+    "next": "space-funk/013 - Jupiter II.mp3",
+    "crossfade_s": 10.0,
+    "score": 0.31
+  },
+  "space-funk/013 - Jupiter II.mp3": {
+    "next": "space-funk/012 - Venus II.mp3",
+    "crossfade_s": 10.0,
+    "score": 1.13
+  },
+  "space-funk/012 - Venus II.mp3": {
+    "next": "space-funk/001 - Mercury.mp3",
+    "crossfade_s": 10.0,
+    "score": 4.02
+  },
+  "space-funk/001 - Mercury.mp3": {
+    "next": "space-funk/006 - Earth.mp3",
+    "crossfade_s": 10.0,
+    "score": 4.56
+  },
+  "space-funk/006 - Earth.mp3": {
+    "next": "space-funk/017 - Pluto II.mp3",
+    "crossfade_s": 7.0,
+    "score": 5.1
+  },
+  "space-funk/017 - Pluto II.mp3": {
+    "next": "space-funk/007 - Uranus.mp3",
+    "crossfade_s": 7.0,
+    "score": 9.9
+  },
+  "space-funk/007 - Uranus.mp3": {
+    "next": "space-funk/008 - Pluto.mp3",
+    "crossfade_s": 7.0,
+    "score": 7.72
+  },
+  "space-funk/008 - Pluto.mp3": {
+    "next": "space-funk/015 - Earth II.mp3",
+    "crossfade_s": 10.0,
+    "score": 5.0
+  },
+  "space-funk/015 - Earth II.mp3": {
+    "next": "space-funk/016 - Uranus II.mp3",
+    "crossfade_s": 7.0,
+    "score": 5.48
+  },
+  "space-funk/016 - Uranus II.mp3": {
+    "next": "space-funk/003 - Venus.mp3",
+    "crossfade_s": 7.0,
+    "score": 5.15
+  },
+  "space-funk/003 - Venus.mp3": {
+    "next": "space-funk/018 - Neptune II.mp3",
+    "crossfade_s": 10.0,
+    "score": 4.56
+  },
+  "space-funk/018 - Neptune II.mp3": {
+    "next": "space-funk/004 - Jupiter.mp3",
+    "crossfade_s": 10.0,
+    "score": 3.33
+  },
+  "space-funk/004 - Jupiter.mp3": {
+    "next": "space-funk/005 - Mars.mp3",
+    "crossfade_s": 7.0,
+    "score": 6.86
+  },
+  "space-funk/005 - Mars.mp3": {
+    "next": "space-funk/011 - Saturn II.mp3",
+    "crossfade_s": 7.0,
+    "score": 7.59
+  },
+  "space-funk/011 - Saturn II.mp3": {
+    "next": "space-funk/010 - Mercury II.mp3",
+    "crossfade_s": 7.0,
+    "score": 6.1
+  },
+  "space-funk/010 - Mercury II.mp3": {
+    "next": "space-funk/009 - Neptune.mp3",
+    "crossfade_s": 10.0,
+    "score": 3.17
+  }
+}
