@@ -6,6 +6,11 @@
 
 settings.log.level := 3
 
+# ─── Telnet Server (admin control) ──────────────────────
+settings.server.telnet := true
+settings.server.telnet.port := 1234
+settings.server.telnet.bind_addr := "0.0.0.0"
+
 # ─── Filename → Metadata Extractor ──────────────────────
 # Many tracks lack ID3 tags. Parse the filename to get artist/title.
 # Patterns:
@@ -74,17 +79,9 @@ end
 
 # Gormax FM (Space Funk): 19 tracks, tight collection — longer crossfades
 gormax_music = make_smart_source("/playlists/gormax-fm.m3u", 8.)
-
-# The Void Lounge (Lofi Hip-Hop): 346 tracks, 98% good transitions
 void_music = make_smart_source("/playlists/void-lounge.m3u", 9.)
-
-# Neon Drift FM (NCS/Electronic): 114 tracks, 97% good transitions
 neon_music = make_smart_source("/playlists/neon-drift.m3u", 7.)
-
-# Portal Static (Lofi Jazz): 128 tracks, 95% good transitions
 portal_music = make_smart_source("/playlists/portal-static.m3u", 8.)
-
-# Council Radio (Synthwave): 70 tracks, 97% good transitions
 synthwave_music = make_smart_source("/playlists/council-radio.m3u", 8.)
 
 # ─── Bumps & Station IDs ────────────────────────────────
@@ -147,6 +144,7 @@ surfing = rotate(
 # ─── Output: Per-Station Mounts ──────────────────────────
 
 output.icecast(
+  id="out_gormax",
   %mp3(bitrate=320),
   host="icecast", port=8000, password="crab-source-2026",
   mount="/gormax-fm",
@@ -158,6 +156,7 @@ output.icecast(
 )
 
 output.icecast(
+  id="out_void",
   %mp3(bitrate=320),
   host="icecast", port=8000, password="crab-source-2026",
   mount="/void-lounge",
@@ -169,6 +168,7 @@ output.icecast(
 )
 
 output.icecast(
+  id="out_neon",
   %mp3(bitrate=320),
   host="icecast", port=8000, password="crab-source-2026",
   mount="/neon-drift",
@@ -180,6 +180,7 @@ output.icecast(
 )
 
 output.icecast(
+  id="out_portal",
   %mp3(bitrate=320),
   host="icecast", port=8000, password="crab-source-2026",
   mount="/portal-static",
@@ -191,6 +192,7 @@ output.icecast(
 )
 
 output.icecast(
+  id="out_council",
   %mp3(bitrate=320),
   host="icecast", port=8000, password="crab-source-2026",
   mount="/council-radio",
@@ -201,8 +203,8 @@ output.icecast(
   council_radio
 )
 
-# Legacy channel-surfing mount
 output.icecast(
+  id="out_stream",
   %mp3(bitrate=320),
   host="icecast", port=8000, password="crab-source-2026",
   mount="/stream",
