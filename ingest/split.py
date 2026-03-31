@@ -115,8 +115,9 @@ def download_full_audio(url: str, output_dir: str) -> tuple[str, dict]:
 def split_track(full_audio: str, track: dict, index: int, total: int,
                 output_dir: str, album_title: str) -> str:
     """Split a single track from the full audio using ffmpeg."""
-    # Clean filename
-    safe_title = re.sub(r'[^\w\s\-()]', '', track["title"]).strip()
+    # Clean filename — preserve most chars, just strip filesystem-unsafe ones
+    safe_title = re.sub(r'[<>:"/\\|?*]', '', track["title"]).strip()
+    safe_title = re.sub(r'\s+', ' ', safe_title)
     filename = f"{index:03d} - {safe_title}.mp3"
     output_path = os.path.join(output_dir, filename)
 

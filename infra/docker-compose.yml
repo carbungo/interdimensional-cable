@@ -1,0 +1,29 @@
+version: "3.8"
+
+services:
+  icecast:
+    image: infiniteproject/icecast:latest
+    container_name: radio-icecast
+    ports:
+      - "8000:8000"
+    environment:
+      ICECAST_SOURCE_PASSWORD: "crab-source-2026"
+      ICECAST_ADMIN_PASSWORD: "crab-admin-2026"
+      ICECAST_RELAY_PASSWORD: "crab-relay-2026"
+      ICECAST_HOSTNAME: "radio.clicksy.me"
+      ICECAST_MAX_CLIENTS: "100"
+    volumes:
+      - ./icecast.xml:/etc/icecast2/icecast.xml:ro
+    restart: unless-stopped
+
+  liquidsoap:
+    image: savonet/liquidsoap:v2.3.2
+    container_name: radio-liquidsoap
+    depends_on:
+      - icecast
+    volumes:
+      - ./radio.liq:/radio.liq:ro
+      - /opt/carbungo/interdimensional-cable/music:/music:ro
+      - /opt/carbungo/interdimensional-cable/bumps:/bumps:ro
+    command: ["liquidsoap", "/radio.liq"]
+    restart: unless-stopped
