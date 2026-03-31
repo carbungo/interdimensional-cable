@@ -4,13 +4,13 @@
 
     <limits>
         <clients>100</clients>
-        <sources>8</sources>
-        <queue-size>524288</queue-size>
+        <sources>10</sources>
+        <queue-size>1048576</queue-size>
         <client-timeout>30</client-timeout>
         <header-timeout>15</header-timeout>
         <source-timeout>10</source-timeout>
         <burst-on-connect>1</burst-on-connect>
-        <burst-size>65535</burst-size>
+        <burst-size>131072</burst-size>
     </limits>
 
     <authentication>
@@ -20,34 +20,107 @@
         <admin-password>crab-admin-2026</admin-password>
     </authentication>
 
-    <hostname>radio.clicksy.me</hostname>
+    <hostname>radio.carbun.xyz</hostname>
     <listen-socket>
         <port>8000</port>
     </listen-socket>
+
+    <http-headers>
+        <header name="Access-Control-Allow-Origin" value="*" />
+    </http-headers>
+
+    <mount type="normal">
+        <mount-name>/gormax-fm</mount-name>
+        <public>1</public>
+        <stream-name>GORMAX FM</stream-name>
+        <stream-description>Hauling grooves across the void — Dimension Ω-70s</stream-description>
+        <genre>Space Funk</genre>
+        <bitrate>320</bitrate>
+        <type>audio/mpeg</type>
+    </mount>
+
+    <mount type="normal">
+        <mount-name>/void-lounge</mount-name>
+        <public>1</public>
+        <stream-name>The Void Lounge</stream-name>
+        <stream-description>Reality is negotiable here — Dimension C-137</stream-description>
+        <genre>Lofi / Ambient</genre>
+        <bitrate>320</bitrate>
+        <type>audio/mpeg</type>
+    </mount>
+
+    <mount type="normal">
+        <mount-name>/neon-drift</mount-name>
+        <public>1</public>
+        <stream-name>Neon Drift FM</stream-name>
+        <stream-description>Neon-soaked beats from the grid — Dimension K-22β</stream-description>
+        <genre>NCS / Electronic</genre>
+        <bitrate>320</bitrate>
+        <type>audio/mpeg</type>
+    </mount>
+
+    <mount type="normal">
+        <mount-name>/portal-static</mount-name>
+        <public>1</public>
+        <stream-name>Portal Static</stream-name>
+        <stream-description>Frequencies between frequencies — Dimension NULL</stream-description>
+        <genre>Lofi Jazz</genre>
+        <bitrate>320</bitrate>
+        <type>audio/mpeg</type>
+    </mount>
+
+    <mount type="normal">
+        <mount-name>/council-radio</mount-name>
+        <public>1</public>
+        <stream-name>Council Radio Σ-12</stream-name>
+        <stream-description>Mandatory listening by decree — Dimension Σ-12</stream-description>
+        <genre>Synthwave</genre>
+        <bitrate>320</bitrate>
+        <type>audio/mpeg</type>
+    </mount>
+
+    <mount type="normal">
+        <mount-name>/mall-fm</mount-name>
+        <public>1</public>
+        <stream-name>MALL∞ FM</stream-name>
+        <stream-description>Echoes from the eternal mall — Dimension δ-98</stream-description>
+        <genre>Vaporwave / Future Funk</genre>
+        <bitrate>320</bitrate>
+        <type>audio/mpeg</type>
+    </mount>
 
     <mount type="normal">
         <mount-name>/stream</mount-name>
         <public>1</public>
         <stream-name>Interdimensional Cable Radio</stream-name>
-        <stream-description>Broadcasting from dimensions unknown. Music, ads, and existential crises from across the multiverse.</stream-description>
-        <stream-url>https://radio.clicksy.me</stream-url>
+        <stream-description>Broadcasting from dimensions unknown.</stream-description>
         <genre>Interdimensional</genre>
-        <bitrate>192</bitrate>
+        <bitrate>320</bitrate>
         <type>audio/mpeg</type>
     </mount>
 
     <fileserve>1</fileserve>
 
     <paths>
-        <basedir>/usr/share/icecast2</basedir>
-        <logdir>/var/log/icecast2</logdir>
-        <webroot>/usr/share/icecast2/web</webroot>
-        <adminroot>/usr/share/icecast2/admin</adminroot>
+        <basedir>/usr/share/icecast</basedir>
+        <logdir>/var/log/icecast</logdir>
+        <webroot>/usr/share/icecast/web</webroot>
+        <adminroot>/usr/share/icecast/admin</adminroot>
+        <alias source="/" destination="/status.xsl"/>
     </paths>
 
     <logging>
         <accesslog>access.log</accesslog>
         <errorlog>error.log</errorlog>
         <loglevel>3</loglevel>
+        <logsize>10000</logsize>
     </logging>
+
+    <security>
+        <chroot>0</chroot>
+        <changeowner>
+            <user>icecast</user>
+            <group>icecast</group>
+        </changeowner>
+    </security>
 </icecast>
