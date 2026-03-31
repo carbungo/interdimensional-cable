@@ -4,7 +4,6 @@
 settings.log.level := 3
 
 # ─── Music Sources ───────────────────────────────────────
-# Each playlist = one station's music pool, shuffled
 
 gormax = playlist(
   mode="randomize",
@@ -37,7 +36,6 @@ synthwave_mix = playlist(
 )
 
 # ─── Bumps & Station IDs ────────────────────────────────
-# Each station has pre-generated IDs that rotate
 
 gormax_bumps = playlist(
   mode="randomize",
@@ -70,9 +68,8 @@ emergency_bumps = playlist(
 )
 
 # ─── Station Assembly ────────────────────────────────────
-# Pattern: play 3-5 songs, then a bump, occasionally an emergency
+# Pattern: play ~4 songs, then a bump
 
-# Rotate: play song, bump every ~4 tracks
 gormax_with_bumps = rotate(
   weights=[4, 1],
   [gormax, gormax_bumps]
@@ -94,34 +91,21 @@ portal_with_bumps = rotate(
 )
 
 # ─── Channel Surfing ─────────────────────────────────────
-# The interdimensional experience: switch stations periodically
-# Each "channel" plays 3-6 tracks with bumps, then we flip
 
 radio = rotate(
   weights=[5, 4, 3, 3, 2, 1],
   [
-    gormax_with_bumps,      # Space funk (featured, more weight)
-    void_with_bumps,        # Lofi chill
-    neon_with_bumps,        # NCS energy
-    portal_with_bumps,      # Lofi jazz mystery
-    synthwave_mix,          # Synthwave (no bumps yet)
-    emergency_bumps,        # Rare emergency broadcasts
+    gormax_with_bumps,
+    void_with_bumps,
+    neon_with_bumps,
+    portal_with_bumps,
+    synthwave_mix,
+    emergency_bumps,
   ]
 )
 
-# Fallback to silence if everything fails
-safe_radio = fallback(track_sensitive=false, [radio, blank()])
-
-# ─── Crossfade ───────────────────────────────────────────
-# Smooth transitions between tracks
-radio_faded = crossfade(
-  duration=3.0,
-  fade_in=1.5,
-  fade_out=1.5,
-  safe_radio
-)
-
 # ─── Output to Icecast ──────────────────────────────────
+# Use fallback with blank() to ensure infallible source
 output.icecast(
   %mp3(bitrate=192),
   host="icecast",
@@ -133,5 +117,6 @@ output.icecast(
   genre="Interdimensional",
   url="https://radio.clicksy.me",
   public=true,
-  radio_faded
+  fallible=true,
+  radio
 )
