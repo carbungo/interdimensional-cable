@@ -72,8 +72,11 @@ gormax_radio = rotate(weights=[4, 1], [gormax_music, gormax_bumps])
 void_radio = rotate(weights=[4, 1], [void_music, void_bumps])
 neon_radio = rotate(weights=[4, 1], [neon_music, neon_bumps])
 portal_radio = rotate(weights=[4, 1], [portal_music, portal_bumps])
-council_radio = rotate(weights=[5, 2, 1], [synthwave_music, emergency_bumps, emergency_bumps])
-mall_radio = rotate(weights=[6, 1], [mall_music, emergency_bumps])
+council_bumps = playlist(mode="randomize", reload_mode="watch", "/bumps/council-radio/station-ids")
+mall_bumps = playlist(mode="randomize", reload_mode="watch", "/bumps/mall-fm/station-ids")
+
+council_radio = rotate(weights=[4, 1, 1], [synthwave_music, council_bumps, emergency_bumps])
+mall_radio = rotate(weights=[4, 1], [mall_music, mall_bumps])
 
 # ─── Channel Surfing Mix (legacy /stream) ────────────────
 
